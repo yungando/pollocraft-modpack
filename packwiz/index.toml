@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bobby.toml"
+hash = "4491272cf1fb2adb67386c5432b4358197dc1516981460d8e0dcae972b9fe437"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.toml"
+hash = "514fca35d56842bf057e04b93848ef977156678bfc8949dfa2cdb2cdc04a7a0e"
+metafile = true
+
+[[files]]
+file = "mods/cleardespawn.toml"
+hash = "5fff3a1b73d64be6d5fb9c1ede4421d3090d974f53009e9d6661cd7a3d77a670"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.toml"
+hash = "1a22f8e7f1718b40216542f41669501144c80bf1c5bbec265177aeaa8e93495a"
+metafile = true
+
+[[files]]
+file = "mods/ebe.toml"
+hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.toml"
+hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "7bb446109174fb831ced527d41df13962b1c46677f7001557b7211e54e5d3e34"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.toml"
+hash = "a2eeafe4895384163835003003991d4f3e09d867135144d49eeed8f4358e690d"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "f8d262a27787b948f6ec71d548131bcac4a60adc616a78db852a40d6461563be"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
