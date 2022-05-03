@@ -9,7 +9,7 @@ A continuation of ando's recommended _vanilla_ mods from previous Minecraft seas
 A couple of important notes:
 * The modpack includes the custom resource pack
 * Both the modpack and resource pack are self-updating once installed
-* To enable auto-updates, the MultiMC Launcer is now ***required***
+* To enable auto-updates, the MultiMC Launcher is now ***required***
 
 And if this sounds like too much work:
 * The custom resource pack will work with any normal installation of Optifine
