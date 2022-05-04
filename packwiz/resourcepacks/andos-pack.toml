@@ -1,0 +1,8 @@
+name = "andos-pack"
+filename = "andos-pack.zip"
+side = "both"
+
+[download]
+url = "https://github.com/yungando/andos-pack/raw/main/andos-pack.zip"
+hash-format = "sha1"
+hash = "7D8E61390CF9C1B787997639FFE266EC2CA50012"
