@@ -21,6 +21,11 @@ hash = "1a22f8e7f1718b40216542f41669501144c80bf1c5bbec265177aeaa8e93495a"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.toml"
+hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
+metafile = true
+
+[[files]]
 file = "mods/ebe.toml"
 hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.toml"
 hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
 metafile = true
 
 [[files]]
@@ -78,4 +88,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.toml"
 hash = "63c9e989d5a5ff668ca6e0959d6a4d0378c0b51169450772de30ecaeedcce1ce"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pollocraft.toml"
+hash = "39e4d0329da1af3e14b2b26bbc450fa31f3405255b335f715478184554339bec"
 metafile = true

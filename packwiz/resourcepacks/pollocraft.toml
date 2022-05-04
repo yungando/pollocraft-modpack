@@ -1,0 +1,8 @@
+name = "pollocraft"
+filename = "pollocraft.zip"
+side = "both"
+
+[download]
+url = "https://github.com/yungando/pollocraft-resourcepack/blob/main/pollocraft.zip?raw=true"
+hash-format = "sha256"
+hash = "ED9F6A5E674A669410B5CDCC8BD15CA9E55755D34C96DF5F8469F68E17167926"
