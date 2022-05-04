@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/yungando/pollocraft-resourcepack/raw/main/pollocraft.zip"
-hash-format = "sha256"
-hash = "ed9f6a5e674a669410b5cdcc8bd15ca9e55755d34c96df5f8469f68e17167926"
+hash-format = "sha1"
+hash = "94744C5924170C7C73FB5CC233FB0A1DFCB13B5B"
