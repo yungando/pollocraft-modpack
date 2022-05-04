@@ -3,17 +3,14 @@ hash-format = "sha256"
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "e0dee3ccd21c15892ea30de58d23e22fa65e19eece047e71342cbd9c7143cb2c"
-metafile = true
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "302f600378a2c4f47680a23ae47d866d17dc53128feae2f2cab2d4df739be9db"
-metafile = true
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "fcd36b8e5521c998273f6c55bd6e1a19535d673511fb19f8e743873686a5f747"
-metafile = true
 
 [[files]]
 file = "mods/advancements-enlarger.toml"
