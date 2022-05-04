@@ -89,8 +89,3 @@ metafile = true
 file = "mods/zoomify.toml"
 hash = "63c9e989d5a5ff668ca6e0959d6a4d0378c0b51169450772de30ecaeedcce1ce"
 metafile = true
-
-[[files]]
-file = "resourcepacks/pollocraft.toml"
-hash = "39e4d0329da1af3e14b2b26bbc450fa31f3405255b335f715478184554339bec"
-metafile = true
