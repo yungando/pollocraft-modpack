@@ -176,6 +176,11 @@ hash = "4932ddd020065b82614ddb7db60679f4c615b4c780dcac10c6ca43c3ba530c62"
 metafile = true
 
 [[files]]
+file = "mods/dataloader.toml"
+hash = "7ad6b38a6102504344f6dd7999dd7bc9096a261dabb9aa8083ecf14b7e5e889d"
+metafile = true
+
+[[files]]
 file = "mods/dcch.toml"
 hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
 metafile = true
