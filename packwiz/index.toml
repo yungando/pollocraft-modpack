@@ -122,7 +122,7 @@ hash = "302f600378a2c4f47680a23ae47d866d17dc53128feae2f2cab2d4df739be9db"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "079480ebcd70a2047d7f92b1a00ced7d18d10c9cbacac408031f40306ba0c9ed"
+hash = "3f2ea525a6f57c698a549a60291ecbbbcdd352faec39c0f94a59335f7c8a9e46"
 
 [[files]]
 file = "mods/advancements-enlarger.toml"
