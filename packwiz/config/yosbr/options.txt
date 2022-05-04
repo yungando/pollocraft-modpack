@@ -4,4 +4,16 @@ simulationDistance:32
 biomeBlendRadius:7
 entityDistanceScaling:5.0
 fovEffectScale:0.70710677
-resourcePacks:["vanilla","Fabric Mods","file/pollocraft.zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","file/VanillaTweaks.zip","file/andos-pack.zip","file/pollocraft.zip"]
+autoJump:false
+fov:0.5
+advancedItemTooltips:true
+pauseOnLostFocus:false
+key_key.sneak:key.keyboard.left.control
+key_key.sprint:key.keyboard.left.shift
+key_key.inventory:key.keyboard.tab
+key_key.chat:key.keyboard.enter
+key_key.playerlist:key.keyboard.t
+key_key.saveToolbarActivator:key.keyboard.z
+soundCategory_music:0.5
+fullscreen:true
