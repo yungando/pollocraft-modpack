@@ -9,8 +9,8 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "302f600378a2c4f47680a23ae47d866d17dc53128feae2f2cab2d4df739be9db"
 
 [[files]]
-file = "config/yosbr/options.txt.txt"
-hash = "31cb7e50939805879272a6add6ba9278fc83baedfeb7cc1c36fbcc0817ae74dc"
+file = "config/yosbr/options.txt"
+hash = "fcd36b8e5521c998273f6c55bd6e1a19535d673511fb19f8e743873686a5f747"
 
 [[files]]
 file = "mods/bobby.toml"

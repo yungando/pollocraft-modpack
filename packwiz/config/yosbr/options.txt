@@ -4,3 +4,4 @@ simulationDistance:32
 biomeBlendRadius:7
 entityDistanceScaling:5.0
 fovEffectScale:0.70710677
+resourcePacks:["vanilla","Fabric Mods","file/pollocraft.zip"]
