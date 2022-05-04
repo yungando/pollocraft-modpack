@@ -1,0 +1,6 @@
+guiScale:2
+renderDistance:32
+simulationDistance:32
+biomeBlendRadius:7
+entityDistanceScaling:5.0
+fovEffectScale:0.70710677
