@@ -281,11 +281,6 @@ hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.toml"
-hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.toml"
 hash = "dcbec3700e3c99a70229cac7ef47f62281a112a5f884ac7e0a23a6a27cf94609"
 metafile = true
