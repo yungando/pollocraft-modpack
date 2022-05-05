@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/customwindowtitle-client.toml"
+hash = "99dad4db591e67b837f3510e3e610f75af08e2b80296196d68d2ddbba6146944"
+
+[[files]]
+file = "config/yosbr/config/customwindowtitle/icon16.png"
+hash = "68573978ef42411ae648e25b7809eb067b93c9193076d0dca551863676876b40"
+
+[[files]]
+file = "config/yosbr/config/customwindowtitle/icon32.png"
+hash = "a7e624d73b9a39f7bf08973e98f455ee22fac90f4c05e9738cf9b8bb9b0e34f1"
+
+[[files]]
 file = "config/yosbr/config/datapacks/Bat_Membranes_1.4.zip"
 hash = "cadabb0d0ad3026c80b59c412f638563d72df43de9d62c9f6a415b191e1d82fd"
 
@@ -102,7 +114,7 @@ hash = "227b05c30b68a900a310df56c4feac5b44defe10d769f2fe6651fea3a8f505e8"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "f9a5093cd14279868cdf2cb48417fba9426283a972c60b7b4554068a4c22ebf4"
+hash = "b245a91f6278c5b534dcff3d459b8ad4208deeeb4db61e9f503b7d543b80d9ce"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
@@ -122,7 +134,7 @@ hash = "302f600378a2c4f47680a23ae47d866d17dc53128feae2f2cab2d4df739be9db"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "3f2ea525a6f57c698a549a60291ecbbbcdd352faec39c0f94a59335f7c8a9e46"
+hash = "c547d9b4bc195ca1f3c3e4f75f7ce2b93eef5cd4cdeb5df4acd538c0e2294370"
 
 [[files]]
 file = "mods/advancements-enlarger.toml"
@@ -155,11 +167,6 @@ hash = "4491272cf1fb2adb67386c5432b4358197dc1516981460d8e0dcae972b9fe437"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.toml"
-hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
-metafile = true
-
-[[files]]
 file = "mods/brb.toml"
 hash = "d225c6ff1ddf6be8fed438d159d802a7b23e536b7caed920450b836134b723dc"
 metafile = true
@@ -182,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
+metafile = true
+
+[[files]]
+file = "mods/custom-window-title.toml"
+hash = "44a5084ff1fe1a0211ae1cebe93fe714ad7a5da2b9c695672711230b73be1499"
 metafile = true
 
 [[files]]
