@@ -185,11 +185,6 @@ hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
 metafile = true
 
 [[files]]
-file = "mods/continuity.toml"
-hash = "4932ddd020065b82614ddb7db60679f4c615b4c780dcac10c6ca43c3ba530c62"
-metafile = true
-
-[[files]]
 file = "mods/dataloader.toml"
 hash = "7ad6b38a6102504344f6dd7999dd7bc9096a261dabb9aa8083ecf14b7e5e889d"
 metafile = true
@@ -207,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/ebe.toml"
 hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
-metafile = true
-
-[[files]]
-file = "mods/entity-texture-features-fabric.toml"
-hash = "6ca956cf088d3b149f90c438dad1d2b8c4f9905f58a9fbe5262106073e220ee6"
 metafile = true
 
 [[files]]
@@ -297,11 +287,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.toml"
 hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.toml"
-hash = "dcbec3700e3c99a70229cac7ef47f62281a112a5f884ac7e0a23a6a27cf94609"
 metafile = true
 
 [[files]]
