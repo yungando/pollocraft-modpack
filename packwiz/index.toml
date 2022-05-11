@@ -152,6 +152,11 @@ hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
 metafile = true
 
 [[files]]
+file = "mods/armor-stand-swap.toml"
+hash = "49e1f8b0234b4929651b5fc07c1db43247edf93e624eada2d265abf7539042f9"
+metafile = true
+
+[[files]]
 file = "mods/armored-elytra.toml"
 hash = "d679cc54a6464c537dff2fdcc675b1c77b322af2e10bb248c1ee0bc8018c90a6"
 metafile = true
@@ -353,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pollocraft.toml"
-hash = "7d6288001516d7314c5471bca3a50686d486b7268fbd25154c93dd4f172cfdce"
+hash = "a622e129824715fa34cbf670292a8636383257b5943bf1c8c7099b6a3a29ad9c"
 metafile = true
 
 [[files]]
