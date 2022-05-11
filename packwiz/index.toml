@@ -382,6 +382,8 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-shaders-config.toml"
 hash = "14d396634e2ce87a693620b29a08396d9b52090aa9b30be07f13fd19d3e592c9"
+metafile = true
+preserve = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
