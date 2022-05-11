@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/ComplementaryShaders_v4.4.zip.txt"
+hash = "cc20ece877b026532e812e57daa2038e69d1b13921c19625276d1a0da9e671bb"
+
+[[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
 hash = "99dad4db591e67b837f3510e3e610f75af08e2b80296196d68d2ddbba6146944"
 
@@ -111,6 +115,10 @@ hash = "d820ba3f351ba68bbd9556204d0096cc12bcfe671d8ce642a119e8d35b083c7b"
 [[files]]
 file = "config/yosbr/config/datapacks/unlock all recipes v2.0.3.zip"
 hash = "227b05c30b68a900a310df56c4feac5b44defe10d769f2fe6651fea3a8f505e8"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "956400bb584ed8cf398c8df0d814eb209e70f85e1ab74550a02d2f74596f9e44"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
@@ -370,3 +378,11 @@ metafile = true
 file = "resourcepacks/vanillatweaks.toml"
 hash = "16658f30ce9111fe10c502b1b644933c9db9b987082c6ed4887ef68cfd42b205"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-shaders-config.toml"
+hash = "14d396634e2ce87a693620b29a08396d9b52090aa9b30be07f13fd19d3e592c9"
+
+[[files]]
+file = "shaderpacks/complementary-shaders.toml"
+hash = "edf96c5c802b06c2f039859ec59dddded0152cb3645a59a31f7a314d0cd0c1c2"

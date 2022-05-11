@@ -1,0 +1,8 @@
+name = "Complementery Shaders Config"
+filename = "ComplementaryShaders_v4.4.zip.txt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/yungando/pollocraft-modpack/main/packwiz/config/yosbr/config/ComplementaryShaders_v4.4.zip.txt"
+hash-format = "sha1"
+hash = "FB9078C90CE5E9FE155D8801FAF49A3630B717E5"
