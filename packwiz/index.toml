@@ -257,6 +257,11 @@ hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
 metafile = true
 
 [[files]]
+file = "mods/iris.toml"
+hash = "cbc3d6649757c3751ac73aed8df427b3ebc5685a808935b0e631d213bf6a760b"
+metafile = true
+
+[[files]]
 file = "mods/item-model-fix.toml"
 hash = "9ab8949bcb4280b1a4b97d40ded17b4786a6c4db1271c121a7fc52ea6f838e0e"
 metafile = true
@@ -342,6 +347,11 @@ hash = "57279a8ae2d7c6e5053da3909d95254118db533d9a38c1a0763bf602d80c933d"
 metafile = true
 
 [[files]]
+file = "mods/vistas.toml"
+hash = "df963d137989f00a2505972e548f1fcfde0cc47858eac58b519d514b1bd27a28"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.toml"
 hash = "527e21c9bc55b0d1db9016a2fec4ff2dee2a93c53edb8c1363d2d2ee7730afd0"
 metafile = true
@@ -358,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pollocraft.toml"
-hash = "a622e129824715fa34cbf670292a8636383257b5943bf1c8c7099b6a3a29ad9c"
+hash = "6bd5885d65ca5007e213935cfcc87e02558fa3dd80ab13326d9cc8d747b48c6e"
 metafile = true
 
 [[files]]
