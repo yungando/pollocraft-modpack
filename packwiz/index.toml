@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-stand-swap.toml"
-hash = "49e1f8b0234b4929651b5fc07c1db43247edf93e624eada2d265abf7539042f9"
+hash = "5420f196fddbce4ae8bfb666a577b21e50c6bd394bfe464a7cd3dd3d1455f858"
 metafile = true
 
 [[files]]

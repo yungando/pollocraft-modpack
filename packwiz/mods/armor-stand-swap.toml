@@ -1,13 +1,13 @@
 name = "Armor Stand Swap"
-filename = "armor-stand-swap-1.0.0.jar"
+filename = "armor-stand-swap-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3786/927/armor-stand-swap-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3787/264/armor-stand-swap-1.0.1.jar"
 hash-format = "sha1"
-hash = "e2a25765f5937041116a171e43659592a4409b14"
+hash = "b62364ec14d1f871a05e1b6fee753167f1771ea7"
 
 [update]
 [update.curseforge]
-file-id = 3786927
+file-id = 3787264
 project-id = 622508
