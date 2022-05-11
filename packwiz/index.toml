@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/ComplementaryShaders_v4.4.zip.txt"
-hash = "cc20ece877b026532e812e57daa2038e69d1b13921c19625276d1a0da9e671bb"
-
-[[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
 hash = "99dad4db591e67b837f3510e3e610f75af08e2b80296196d68d2ddbba6146944"
 
@@ -380,12 +376,11 @@ hash = "16658f30ce9111fe10c502b1b644933c9db9b987082c6ed4887ef68cfd42b205"
 metafile = true
 
 [[files]]
-file = "shaderpacks/complementary-shaders-config.toml"
-hash = "14d396634e2ce87a693620b29a08396d9b52090aa9b30be07f13fd19d3e592c9"
-metafile = true
+file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
+hash = "cc20ece877b026532e812e57daa2038e69d1b13921c19625276d1a0da9e671bb"
 preserve = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "edf96c5c802b06c2f039859ec59dddded0152cb3645a59a31f7a314d0cd0c1c2"
+hash = "c242abd56ac0aa95e43157d5734ad3dbc0cc3f57dd955c95a6df808804aa4158"
 metafile = true
