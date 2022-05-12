@@ -1,0 +1,13 @@
+name = "YUNG's Better Mineshafts (Fabric)"
+filename = "YungsBetterMineshafts-1.18.2-Fabric-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3781/283/YungsBetterMineshafts-1.18.2-Fabric-2.1.1.jar"
+hash-format = "sha1"
+hash = "b9a8ba7fb1ac7928b4598730fab891db675f9e51"
+
+[update]
+[update.curseforge]
+file-id = 3781283
+project-id = 373591

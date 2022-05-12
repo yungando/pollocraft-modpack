@@ -143,7 +143,7 @@ preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c547d9b4bc195ca1f3c3e4f75f7ce2b93eef5cd4cdeb5df4acd538c0e2294370"
+hash = "6944cb645af8d593cdc5e81bec50a5c18bce8cbdf17c141f40654871ab7b5a14"
 
 [[files]]
 file = "mods/advancements-enlarger.toml"
@@ -203,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
+metafile = true
+
+[[files]]
+file = "mods/clumps.toml"
+hash = "8267db448b826bea1ef55b5a67afece8f04800ee09db1913972dd07ac4727eca"
 metafile = true
 
 [[files]]
@@ -371,6 +376,31 @@ hash = "527e21c9bc55b0d1db9016a2fec4ff2dee2a93c53edb8c1363d2d2ee7730afd0"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api-fabric.toml"
+hash = "83cbf868ae2dcd47190114b33904be6fe4d566a32d21047256388cacc688f71a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-fabric.toml"
+hash = "36c4957259c13ed7a46fd1e8927e7f752f9cac78ae75483e34d2063d14e8c12c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.toml"
+hash = "cd3255946254add70b6a9372a22b1d975a91a270bcff1aaaef96b5171dee3ea1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-fabric.toml"
+hash = "13eff10a7835e007666cd6c7e518465312c003a306e531f47d9343893c4f2582"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras-fabric.toml"
+hash = "5ffcf0294b22212a582689ac14582724c9db20461639fe7175766b3319d49f6b"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.toml"
 hash = "63c9e989d5a5ff668ca6e0959d6a4d0378c0b51169450772de30ecaeedcce1ce"
 metafile = true
@@ -382,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pollocraft.toml"
-hash = "e2c7d910b1d3b07afd3385fd476650f78568d28b20a5b17e557b7d7cacd0f5b0"
+hash = "658fd023ca9514b55707a6c47696dd35b5812e579c321b7f688dd2fdde5f41ca"
 metafile = true
 
 [[files]]
