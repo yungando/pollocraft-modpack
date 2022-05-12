@@ -1,140 +1,145 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/customwindowtitle-client.toml"
+file = "config/customwindowtitle-client.toml"
 hash = "99dad4db591e67b837f3510e3e610f75af08e2b80296196d68d2ddbba6146944"
 
 [[files]]
-file = "config/yosbr/config/customwindowtitle/icon16.png"
+file = "config/customwindowtitle/icon16.png"
 hash = "68573978ef42411ae648e25b7809eb067b93c9193076d0dca551863676876b40"
 
 [[files]]
-file = "config/yosbr/config/customwindowtitle/icon32.png"
+file = "config/customwindowtitle/icon32.png"
 hash = "a7e624d73b9a39f7bf08973e98f455ee22fac90f4c05e9738cf9b8bb9b0e34f1"
 
 [[files]]
-file = "config/yosbr/config/datapacks/Bat_Membranes_1.4.zip"
+file = "config/datapacks/Bat_Membranes_1.4.zip"
 hash = "cadabb0d0ad3026c80b59c412f638563d72df43de9d62c9f6a415b191e1d82fd"
 
 [[files]]
-file = "config/yosbr/config/datapacks/Chicken_Shedding_1.4.zip"
+file = "config/datapacks/Chicken_Shedding_1.4.zip"
 hash = "c2473f36a86ab8532a2a812490260d0603266fb93bb26d5a9a48221c0b72a550"
 
 [[files]]
-file = "config/yosbr/config/datapacks/Climbable_Chains_1.4.zip"
+file = "config/datapacks/Climbable_Chains_1.4.zip"
 hash = "b0f8bdf445974808e8083ea84ead0494fc8a380aea9fd292083ef6552afeb5c7"
 
 [[files]]
-file = "config/yosbr/config/datapacks/Invisible_Item_Frames_2.2.zip"
+file = "config/datapacks/Invisible_Item_Frames_2.2.zip"
 hash = "9b141c5766e5572a1a8066f81d0b13a3bc28174e59f5cbd1bac1127896170295"
 
 [[files]]
-file = "config/yosbr/config/datapacks/Server_Friendly_Wither_1.4.zip"
+file = "config/datapacks/Server_Friendly_Wither_1.4.zip"
 hash = "28353cf84e04b30853227d4210e5260a43642068a709fcb27f27eebcf67b1e6b"
 
 [[files]]
-file = "config/yosbr/config/datapacks/Trader_Notify_1.4.zip"
+file = "config/datapacks/Trader_Notify_1.4.zip"
 hash = "d03d33e544c6612eeb23021595aee0af4dd28649caf2c5d44f105bf8c3f9dc6d"
 
 [[files]]
-file = "config/yosbr/config/datapacks/Tridents_o_Plenty_1.5.zip"
+file = "config/datapacks/Tridents_o_Plenty_1.5.zip"
 hash = "53a68c69c0766ef80a0b4cfd52322f9791db1052ec40149d14c8bf74c4c454ce"
 
 [[files]]
-file = "config/yosbr/config/datapacks/Weakened_Bedrock_1.4.zip"
+file = "config/datapacks/Weakened_Bedrock_1.4.zip"
 hash = "6983efcbdc3c8b463931f93c482534b32bd6b1dbcf532aed8093ed234e754cb8"
 
 [[files]]
-file = "config/yosbr/config/datapacks/anti enderman grief v1.1.2.zip"
+file = "config/datapacks/anti enderman grief v1.1.2.zip"
 hash = "1d4a59bc8da213862bcadea288d2ebaa6f9b076b840a4267acd813c8a7c92fca"
 
 [[files]]
-file = "config/yosbr/config/datapacks/armor-arms-1571597206.zip"
+file = "config/datapacks/armor-arms-1571597206.zip"
 hash = "33ae1f942b57360080a0c51495224a646ca7a36a6206916a7281cb53cfdc94ce"
 
 [[files]]
-file = "config/yosbr/config/datapacks/armored elytra v1.0.5.zip"
+file = "config/datapacks/armored elytra v1.0.5.zip"
 hash = "cb5a132fceb6fe67871d8a1c2679c48fd1040fbe7033c078953eba451fddb28c"
 
 [[files]]
-file = "config/yosbr/config/datapacks/cauldron concrete v2.0.5.zip"
+file = "config/datapacks/cauldron concrete v2.0.5.zip"
 hash = "e1742c9f1fbf5e3f15b8d2217b56789b8438483e5c9d18df1995af246732f047"
 
 [[files]]
-file = "config/yosbr/config/datapacks/confetti creepers v2.2.2.zip"
+file = "config/datapacks/confetti creepers v2.2.2.zip"
 hash = "0c67d21313e14c0beb42ca429386306b3dbef07a810566b78a6a68e3b6e1d12e"
 
 [[files]]
-file = "config/yosbr/config/datapacks/double shulker shells v1.3.2.zip"
+file = "config/datapacks/double shulker shells v1.3.2.zip"
 hash = "98ac074cde4f27b8572a3ccd15d7ab7adaa31b12c38d18f437e826a74a46bac4"
 
 [[files]]
-file = "config/yosbr/config/datapacks/dragon drops v1.3.2.zip"
+file = "config/datapacks/dragon drops v1.3.2.zip"
 hash = "5be47471507e0dfc12251d26a2c2c6b604216653456fadfcb9abaa42b01c0332"
 
 [[files]]
-file = "config/yosbr/config/datapacks/fast leaf decay v2.0.5.zip"
+file = "config/datapacks/fast leaf decay v2.0.5.zip"
 hash = "4a69a71b17820eabdb8ba7bc09f16c9c82647f952c17b4d8b93ee6988a74b148"
 
 [[files]]
-file = "config/yosbr/config/datapacks/graves v2.8.5.zip"
+file = "config/datapacks/graves v2.8.5.zip"
 hash = "55915acb0cec5ed1f12912019d37920deb85052d636cc71d0b4614a1af5d5ccc"
 
 [[files]]
-file = "config/yosbr/config/datapacks/multiplayer_sleep_v2.6.2_ando.zip"
+file = "config/datapacks/multiplayer_sleep_v2.6.2_ando.zip"
 hash = "7212d90534af22902fcd640f572b486abe27525ba382110b7adc7ef20f393221"
 
 [[files]]
-file = "config/yosbr/config/datapacks/name_colors_2.zip"
+file = "config/datapacks/name_colors_2.zip"
 hash = "20b526b21a565deb9ee15c092b1837ee216d274d415bf2ae143a1121ac35f206"
 
 [[files]]
-file = "config/yosbr/config/datapacks/no_dragon_griefing.zip"
+file = "config/datapacks/no_dragon_griefing.zip"
 hash = "9a3b56fb4c91afaa8873fb2775b68144b257e64ef30f6aef3a8f6c0bbab38497"
 
 [[files]]
-file = "config/yosbr/config/datapacks/player head drops v1.1.2.zip"
+file = "config/datapacks/player head drops v1.1.2.zip"
 hash = "499d8f0c1df4bf220c5ae80b9484c886728cebf14b7611a2463846ec990669f1"
 
 [[files]]
-file = "config/yosbr/config/datapacks/spectator night vision v1.1.2.zip"
+file = "config/datapacks/spectator night vision v1.1.2.zip"
 hash = "ab3967c91696976e68e2126e5a43285cb04151d4bd46c3e89b020a2ab78abb0b"
 
 [[files]]
-file = "config/yosbr/config/datapacks/track raw statistics v1.5.2.zip"
+file = "config/datapacks/track raw statistics v1.5.2.zip"
 hash = "67c77b5becf9b5256f4828358e8a25ce2b2b083b820c814722f6a4617611c522"
 
 [[files]]
-file = "config/yosbr/config/datapacks/track statistics v1.1.3.zip"
+file = "config/datapacks/track statistics v1.1.3.zip"
 hash = "d820ba3f351ba68bbd9556204d0096cc12bcfe671d8ce642a119e8d35b083c7b"
 
 [[files]]
-file = "config/yosbr/config/datapacks/unlock all recipes v2.0.3.zip"
+file = "config/datapacks/unlock all recipes v2.0.3.zip"
 hash = "227b05c30b68a900a310df56c4feac5b44defe10d769f2fe6651fea3a8f505e8"
 
 [[files]]
-file = "config/yosbr/config/iris.properties"
+file = "config/iris.properties"
 hash = "956400bb584ed8cf398c8df0d814eb209e70f85e1ab74550a02d2f74596f9e44"
+preserve = true
 
 [[files]]
-file = "config/yosbr/config/isxander-main-menu-credits.json"
+file = "config/isxander-main-menu-credits.json"
 hash = "b245a91f6278c5b534dcff3d459b8ad4208deeeb4db61e9f503b7d543b80d9ce"
 
 [[files]]
-file = "config/yosbr/config/minihud.json"
+file = "config/minihud.json"
 hash = "33f233d9796e7e1eb69421bfad36abf6517457861e06b61c4f05ff970ca7f223"
+preserve = true
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "22de2cf059365108a1ad38169f3840c73cec8840534cc9aff7fedd0e4f5a5622"
+file = "config/modmenu.json"
+hash = "97ede1537114500f606689aef936e459b823e232e4ea5f4de1ed7f488c620155"
+preserve = true
 
 [[files]]
-file = "config/yosbr/config/sodium-extra-options.json"
+file = "config/sodium-extra-options.json"
 hash = "e0dee3ccd21c15892ea30de58d23e22fa65e19eece047e71342cbd9c7143cb2c"
+preserve = true
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
+file = "config/sodium-options.json"
 hash = "302f600378a2c4f47680a23ae47d866d17dc53128feae2f2cab2d4df739be9db"
+preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -152,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
+hash = "fd6f7453e6b6a66b26d32fc6da52d2545e7aadb1b7ccdacb7674ac3d4066a28a"
 metafile = true
 
 [[files]]
@@ -201,6 +206,11 @@ hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
 metafile = true
 
 [[files]]
+file = "mods/continuity.toml"
+hash = "4932ddd020065b82614ddb7db60679f4c615b4c780dcac10c6ca43c3ba530c62"
+metafile = true
+
+[[files]]
 file = "mods/custom-window-title.toml"
 hash = "44a5084ff1fe1a0211ae1cebe93fe714ad7a5da2b9c695672711230b73be1499"
 metafile = true
@@ -217,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "5dbb4d2a2f4d20ecaddd7ea8b31c48e7e9c8694ac4b8d1ffe0e92a76c0718c67"
+hash = "9d5d339c329cb7e2a8c7540da5dff5e81cb99b769986c3f88fcfa17d21477f18"
 metafile = true
 
 [[files]]
@@ -258,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/indium.toml"
 hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
+metafile = true
+
+[[files]]
+file = "mods/infinty-fix-fabric.toml"
+hash = "f933cd146758bc9840f172dbdad820db3baa163f2d4d0f6e0fe6c5b82d62bb4d"
 metafile = true
 
 [[files]]

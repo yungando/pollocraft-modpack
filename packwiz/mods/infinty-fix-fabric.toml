@@ -1,0 +1,13 @@
+name = "New Infinty Fix"
+filename = "infinityfix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3783/849/infinityfix-1.0.0.jar"
+hash-format = "sha1"
+hash = "bf588bf563cee010005b841970c02ee8c86697c8"
+
+[update]
+[update.curseforge]
+file-id = 3783849
+project-id = 621675
