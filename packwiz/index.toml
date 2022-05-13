@@ -13,112 +13,13 @@ file = "config/customwindowtitle/icon32.png"
 hash = "a7e624d73b9a39f7bf08973e98f455ee22fac90f4c05e9738cf9b8bb9b0e34f1"
 
 [[files]]
-file = "config/datapacks/Bat_Membranes_1.4.zip"
-hash = "cadabb0d0ad3026c80b59c412f638563d72df43de9d62c9f6a415b191e1d82fd"
-
-[[files]]
-file = "config/datapacks/Chicken_Shedding_1.4.zip"
-hash = "c2473f36a86ab8532a2a812490260d0603266fb93bb26d5a9a48221c0b72a550"
-
-[[files]]
-file = "config/datapacks/Climbable_Chains_1.4.zip"
-hash = "b0f8bdf445974808e8083ea84ead0494fc8a380aea9fd292083ef6552afeb5c7"
-
-[[files]]
-file = "config/datapacks/Invisible_Item_Frames_2.2.zip"
-hash = "9b141c5766e5572a1a8066f81d0b13a3bc28174e59f5cbd1bac1127896170295"
-
-[[files]]
-file = "config/datapacks/Server_Friendly_Wither_1.4.zip"
-hash = "28353cf84e04b30853227d4210e5260a43642068a709fcb27f27eebcf67b1e6b"
-
-[[files]]
-file = "config/datapacks/Trader_Notify_1.4.zip"
-hash = "d03d33e544c6612eeb23021595aee0af4dd28649caf2c5d44f105bf8c3f9dc6d"
-
-[[files]]
-file = "config/datapacks/Tridents_o_Plenty_1.5.zip"
-hash = "53a68c69c0766ef80a0b4cfd52322f9791db1052ec40149d14c8bf74c4c454ce"
-
-[[files]]
-file = "config/datapacks/Weakened_Bedrock_1.4.zip"
-hash = "6983efcbdc3c8b463931f93c482534b32bd6b1dbcf532aed8093ed234e754cb8"
-
-[[files]]
-file = "config/datapacks/anti enderman grief v1.1.2.zip"
-hash = "1d4a59bc8da213862bcadea288d2ebaa6f9b076b840a4267acd813c8a7c92fca"
-
-[[files]]
-file = "config/datapacks/armor-arms-1571597206.zip"
-hash = "33ae1f942b57360080a0c51495224a646ca7a36a6206916a7281cb53cfdc94ce"
-
-[[files]]
-file = "config/datapacks/armored elytra v1.0.5.zip"
-hash = "cb5a132fceb6fe67871d8a1c2679c48fd1040fbe7033c078953eba451fddb28c"
-
-[[files]]
-file = "config/datapacks/cauldron concrete v2.0.5.zip"
-hash = "e1742c9f1fbf5e3f15b8d2217b56789b8438483e5c9d18df1995af246732f047"
-
-[[files]]
-file = "config/datapacks/confetti creepers v2.2.2.zip"
-hash = "0c67d21313e14c0beb42ca429386306b3dbef07a810566b78a6a68e3b6e1d12e"
-
-[[files]]
-file = "config/datapacks/double shulker shells v1.3.2.zip"
-hash = "98ac074cde4f27b8572a3ccd15d7ab7adaa31b12c38d18f437e826a74a46bac4"
-
-[[files]]
-file = "config/datapacks/dragon drops v1.3.2.zip"
-hash = "5be47471507e0dfc12251d26a2c2c6b604216653456fadfcb9abaa42b01c0332"
-
-[[files]]
-file = "config/datapacks/fast leaf decay v2.0.5.zip"
-hash = "4a69a71b17820eabdb8ba7bc09f16c9c82647f952c17b4d8b93ee6988a74b148"
-
-[[files]]
-file = "config/datapacks/graves v2.8.5.zip"
-hash = "55915acb0cec5ed1f12912019d37920deb85052d636cc71d0b4614a1af5d5ccc"
-
-[[files]]
-file = "config/datapacks/multiplayer_sleep_v2.6.2_ando.zip"
-hash = "7212d90534af22902fcd640f572b486abe27525ba382110b7adc7ef20f393221"
-
-[[files]]
-file = "config/datapacks/name_colors_2.zip"
-hash = "20b526b21a565deb9ee15c092b1837ee216d274d415bf2ae143a1121ac35f206"
-
-[[files]]
-file = "config/datapacks/no_dragon_griefing.zip"
-hash = "9a3b56fb4c91afaa8873fb2775b68144b257e64ef30f6aef3a8f6c0bbab38497"
-
-[[files]]
-file = "config/datapacks/player head drops v1.1.2.zip"
-hash = "499d8f0c1df4bf220c5ae80b9484c886728cebf14b7611a2463846ec990669f1"
-
-[[files]]
-file = "config/datapacks/spectator night vision v1.1.2.zip"
-hash = "ab3967c91696976e68e2126e5a43285cb04151d4bd46c3e89b020a2ab78abb0b"
-
-[[files]]
-file = "config/datapacks/track raw statistics v1.5.2.zip"
-hash = "67c77b5becf9b5256f4828358e8a25ce2b2b083b820c814722f6a4617611c522"
-
-[[files]]
-file = "config/datapacks/track statistics v1.1.3.zip"
-hash = "d820ba3f351ba68bbd9556204d0096cc12bcfe671d8ce642a119e8d35b083c7b"
-
-[[files]]
-file = "config/datapacks/unlock all recipes v2.0.3.zip"
-hash = "227b05c30b68a900a310df56c4feac5b44defe10d769f2fe6651fea3a8f505e8"
-
-[[files]]
 file = "config/entity_texture_features.json"
 hash = "e739a07478b77659d573ebb4e644ea5056d7ad523e814962cca468d538038b39"
 
 [[files]]
 file = "config/iris.properties"
 hash = "956400bb584ed8cf398c8df0d814eb209e70f85e1ab74550a02d2f74596f9e44"
+preserve = true
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -132,7 +33,106 @@ preserve = true
 [[files]]
 file = "config/modmenu.json"
 hash = "97ede1537114500f606689aef936e459b823e232e4ea5f4de1ed7f488c620155"
-preserve = true
+
+[[files]]
+file = "config/paxi/Bat_Membranes_1.4.zip"
+hash = "cadabb0d0ad3026c80b59c412f638563d72df43de9d62c9f6a415b191e1d82fd"
+
+[[files]]
+file = "config/paxi/Chicken_Shedding_1.4.zip"
+hash = "c2473f36a86ab8532a2a812490260d0603266fb93bb26d5a9a48221c0b72a550"
+
+[[files]]
+file = "config/paxi/Climbable_Chains_1.4.zip"
+hash = "b0f8bdf445974808e8083ea84ead0494fc8a380aea9fd292083ef6552afeb5c7"
+
+[[files]]
+file = "config/paxi/Invisible_Item_Frames_2.2.zip"
+hash = "9b141c5766e5572a1a8066f81d0b13a3bc28174e59f5cbd1bac1127896170295"
+
+[[files]]
+file = "config/paxi/Server_Friendly_Wither_1.4.zip"
+hash = "28353cf84e04b30853227d4210e5260a43642068a709fcb27f27eebcf67b1e6b"
+
+[[files]]
+file = "config/paxi/Trader_Notify_1.4.zip"
+hash = "d03d33e544c6612eeb23021595aee0af4dd28649caf2c5d44f105bf8c3f9dc6d"
+
+[[files]]
+file = "config/paxi/Tridents_o_Plenty_1.5.zip"
+hash = "53a68c69c0766ef80a0b4cfd52322f9791db1052ec40149d14c8bf74c4c454ce"
+
+[[files]]
+file = "config/paxi/Weakened_Bedrock_1.4.zip"
+hash = "6983efcbdc3c8b463931f93c482534b32bd6b1dbcf532aed8093ed234e754cb8"
+
+[[files]]
+file = "config/paxi/anti enderman grief v1.1.2.zip"
+hash = "1d4a59bc8da213862bcadea288d2ebaa6f9b076b840a4267acd813c8a7c92fca"
+
+[[files]]
+file = "config/paxi/armor-arms-1571597206.zip"
+hash = "33ae1f942b57360080a0c51495224a646ca7a36a6206916a7281cb53cfdc94ce"
+
+[[files]]
+file = "config/paxi/armored elytra v1.0.5.zip"
+hash = "cb5a132fceb6fe67871d8a1c2679c48fd1040fbe7033c078953eba451fddb28c"
+
+[[files]]
+file = "config/paxi/cauldron concrete v2.0.5.zip"
+hash = "e1742c9f1fbf5e3f15b8d2217b56789b8438483e5c9d18df1995af246732f047"
+
+[[files]]
+file = "config/paxi/confetti creepers v2.2.2.zip"
+hash = "0c67d21313e14c0beb42ca429386306b3dbef07a810566b78a6a68e3b6e1d12e"
+
+[[files]]
+file = "config/paxi/double shulker shells v1.3.2.zip"
+hash = "98ac074cde4f27b8572a3ccd15d7ab7adaa31b12c38d18f437e826a74a46bac4"
+
+[[files]]
+file = "config/paxi/dragon drops v1.3.2.zip"
+hash = "5be47471507e0dfc12251d26a2c2c6b604216653456fadfcb9abaa42b01c0332"
+
+[[files]]
+file = "config/paxi/fast leaf decay v2.0.5.zip"
+hash = "4a69a71b17820eabdb8ba7bc09f16c9c82647f952c17b4d8b93ee6988a74b148"
+
+[[files]]
+file = "config/paxi/graves v2.8.5.zip"
+hash = "55915acb0cec5ed1f12912019d37920deb85052d636cc71d0b4614a1af5d5ccc"
+
+[[files]]
+file = "config/paxi/multiplayer_sleep_v2.6.2_ando.zip"
+hash = "7212d90534af22902fcd640f572b486abe27525ba382110b7adc7ef20f393221"
+
+[[files]]
+file = "config/paxi/name_colors_2.zip"
+hash = "20b526b21a565deb9ee15c092b1837ee216d274d415bf2ae143a1121ac35f206"
+
+[[files]]
+file = "config/paxi/no_dragon_griefing.zip"
+hash = "9a3b56fb4c91afaa8873fb2775b68144b257e64ef30f6aef3a8f6c0bbab38497"
+
+[[files]]
+file = "config/paxi/player head drops v1.1.2.zip"
+hash = "499d8f0c1df4bf220c5ae80b9484c886728cebf14b7611a2463846ec990669f1"
+
+[[files]]
+file = "config/paxi/spectator night vision v1.1.2.zip"
+hash = "ab3967c91696976e68e2126e5a43285cb04151d4bd46c3e89b020a2ab78abb0b"
+
+[[files]]
+file = "config/paxi/track raw statistics v1.5.2.zip"
+hash = "67c77b5becf9b5256f4828358e8a25ce2b2b083b820c814722f6a4617611c522"
+
+[[files]]
+file = "config/paxi/track statistics v1.1.3.zip"
+hash = "d820ba3f351ba68bbd9556204d0096cc12bcfe671d8ce642a119e8d35b083c7b"
+
+[[files]]
+file = "config/paxi/unlock all recipes v2.0.3.zip"
+hash = "227b05c30b68a900a310df56c4feac5b44defe10d769f2fe6651fea3a8f505e8"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -152,10 +152,15 @@ preserve = true
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "89d3fd9e5558b0720b2ff57d07b4b39b4c6a3c5c6b306668c3905933dcc0c00f"
+preserve = true
 
 [[files]]
 file = "mods/XaerosWorldMap.jar"
 hash = "441f9b4ad20d81cf9a40a14e8b112dc45759214cc55ddaedb5f60973b308a628"
+
+[[files]]
+file = "mods/YungsBetterDesertTemples-1.18.2-Fabric-1.0.0.jar"
+hash = "3e5ce1bf98a084418759ed833f2b6cdf6c2cc02e759d9e89024462d06bae3168"
 
 [[files]]
 file = "mods/advancements-enlarger.toml"
@@ -238,11 +243,6 @@ hash = "44a5084ff1fe1a0211ae1cebe93fe714ad7a5da2b9c695672711230b73be1499"
 metafile = true
 
 [[files]]
-file = "mods/dataloader.toml"
-hash = "7ad6b38a6102504344f6dd7999dd7bc9096a261dabb9aa8083ecf14b7e5e889d"
-metafile = true
-
-[[files]]
 file = "mods/dcch.toml"
 hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
 metafile = true
@@ -290,6 +290,11 @@ metafile = true
 [[files]]
 file = "mods/here-be-no-dragons.toml"
 hash = "2a9a84cfb89c9605f1d9e9d837a9bbbebf1cfebf6836f8cd1ca596bd1c4edd2b"
+metafile = true
+
+[[files]]
+file = "mods/incendium.toml"
+hash = "6dbe600e847b1f126e5d88567c97d7f323e7dad7153ad795a3a4a9a327ecfc3d"
 metafile = true
 
 [[files]]
@@ -363,6 +368,16 @@ hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
 metafile = true
 
 [[files]]
+file = "mods/nullscape-end-reborn.toml"
+hash = "267cd4461bdf924670b71649b39ee083dd4daa869e2ce712095c9056878175ee"
+metafile = true
+
+[[files]]
+file = "mods/paxi-fabric.toml"
+hash = "e91d14a362664545a26b48f004636bdef52c68d311bab72b0bfe03224ec61987"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
 metafile = true
@@ -433,19 +448,24 @@ hash = "63c9e989d5a5ff668ca6e0959d6a4d0378c0b51169450772de30ecaeedcce1ce"
 metafile = true
 
 [[files]]
-file = "resourcepacks/andos-pack.toml"
-hash = "529d7799e15d25bea56dbc4f14a0dc1ffb2cf94e41a9a2b03f4fd7f13bada3de"
-metafile = true
+file = "resourcepacks/Incendium_5.x_Biome_Name_Fix.zip"
+hash = "f304b0ec27e8ed7ee8c83ae7f93696c97ae481480c098b283125e99de9af64bd"
 
 [[files]]
-file = "resourcepacks/pollocraft.toml"
-hash = "658fd023ca9514b55707a6c47696dd35b5812e579c321b7f688dd2fdde5f41ca"
-metafile = true
+file = "resourcepacks/Terralith_2.2.x_Biome_Name_Fix.zip"
+hash = "1099fb7fa6a0f8d9c7100dbed3e787d255767feec126bbae24e2b39834340050"
 
 [[files]]
-file = "resourcepacks/vanillatweaks.toml"
-hash = "16658f30ce9111fe10c502b1b644933c9db9b987082c6ed4887ef68cfd42b205"
-metafile = true
+file = "resourcepacks/VanillaTweaks.zip"
+hash = "7725e893351352eba9dcca4e3e98fea47c8f5b6dbea4d5d44c526d0a29f5f2e9"
+
+[[files]]
+file = "resourcepacks/andos-pack.zip"
+hash = "95272a0d3088d7b89d201278527af0b521805e615ca78cb1f1ec05a294b4d7c2"
+
+[[files]]
+file = "resourcepacks/pollocraft.zip"
+hash = "bfe35dc402103b8f7299051e5aad2e8b444d4d1a79c0f65fbcd0206a53d3c210"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"

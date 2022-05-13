@@ -1,0 +1,21 @@
+{
+  "parent": "./stal",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [35, 145, 2.5],
+			"translation": [2, 0, -1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [35, 145, 2.5],
+			"translation": [2, 0, -1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, -5],
+			"translation": [-2.5, 2.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, -5],
+			"translation": [-2.5, 2.5, 0]
+		}
+	}
+}

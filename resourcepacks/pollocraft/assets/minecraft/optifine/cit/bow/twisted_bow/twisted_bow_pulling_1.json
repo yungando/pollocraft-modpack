@@ -1,0 +1,6 @@
+{
+    "parent": "./twisted_bow_pulling_0",
+	"textures": {
+		"layer0": "./twisted_bow_pulling_1"
+	}
+}

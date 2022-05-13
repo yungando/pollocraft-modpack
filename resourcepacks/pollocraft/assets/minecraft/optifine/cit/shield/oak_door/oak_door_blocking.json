@@ -1,0 +1,21 @@
+{
+    "parent": "./oak_door",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [35, 145, 2.5],
+			"translation": [5, -4.7, -8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [35, 145, 2.5],
+			"translation": [5, -4.7, -8]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, -5],
+			"translation": [-4, -9, -7.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, -5],
+			"translation": [-4, -9, -7.5]
+		}
+	}
+}
