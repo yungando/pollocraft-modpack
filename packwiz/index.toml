@@ -113,9 +113,12 @@ file = "config/datapacks/unlock all recipes v2.0.3.zip"
 hash = "227b05c30b68a900a310df56c4feac5b44defe10d769f2fe6651fea3a8f505e8"
 
 [[files]]
+file = "config/entity_texture_features.json"
+hash = "e739a07478b77659d573ebb4e644ea5056d7ad523e814962cca468d538038b39"
+
+[[files]]
 file = "config/iris.properties"
 hash = "956400bb584ed8cf398c8df0d814eb209e70f85e1ab74550a02d2f74596f9e44"
-preserve = true
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -148,7 +151,7 @@ preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6944cb645af8d593cdc5e81bec50a5c18bce8cbdf17c141f40654871ab7b5a14"
+hash = "89d3fd9e5558b0720b2ff57d07b4b39b4c6a3c5c6b306668c3905933dcc0c00f"
 
 [[files]]
 file = "mods/XaerosWorldMap.jar"
@@ -382,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
+
+[[files]]
+file = "mods/terralith.toml"
+hash = "314bb864fbd249ff543bb842db256c9a34a4f00645086e2133abe02284f855b9"
 metafile = true
 
 [[files]]
