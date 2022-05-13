@@ -11,7 +11,7 @@ guiScale:2
 maxFps:260
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","file/VanillaTweaks.zip","file/andos-pack.zip","file/pollocraft.zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","file/Incendium_5.x_Biome_Name_Fix.zip","file/Terralith_2.2.x_Biome_Name_Fix.zip","file/VanillaTweaks.zip","file/andos-pack.zip","file/pollocraft.zip"]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true
