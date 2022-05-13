@@ -142,8 +142,17 @@ hash = "302f600378a2c4f47680a23ae47d866d17dc53128feae2f2cab2d4df739be9db"
 preserve = true
 
 [[files]]
+file = "config/xaeroworldmap.txt"
+hash = "e9e735f32896bc0810539678317e32fab2c3274eb435a40af4c7ca7ff612f027"
+preserve = true
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "6944cb645af8d593cdc5e81bec50a5c18bce8cbdf17c141f40654871ab7b5a14"
+
+[[files]]
+file = "mods/XaerosWorldMap.jar"
+hash = "441f9b4ad20d81cf9a40a14e8b112dc45759214cc55ddaedb5f60973b308a628"
 
 [[files]]
 file = "mods/advancements-enlarger.toml"
@@ -216,6 +225,11 @@ hash = "4932ddd020065b82614ddb7db60679f4c615b4c780dcac10c6ca43c3ba530c62"
 metafile = true
 
 [[files]]
+file = "mods/crops-love-rain.toml"
+hash = "cdbeeb56e330eddb26a960c6240d23ad602717b1e3844deb88660f284c5c15fa"
+metafile = true
+
+[[files]]
 file = "mods/custom-window-title.toml"
 hash = "44a5084ff1fe1a0211ae1cebe93fe714ad7a5da2b9c695672711230b73be1499"
 metafile = true
@@ -268,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.toml"
 hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/here-be-no-dragons.toml"
+hash = "2a9a84cfb89c9605f1d9e9d837a9bbbebf1cfebf6836f8cd1ca596bd1c4edd2b"
 metafile = true
 
 [[files]]
@@ -422,8 +441,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
-hash = "cc20ece877b026532e812e57daa2038e69d1b13921c19625276d1a0da9e671bb"
-preserve = true
+hash = "b9e3ab3eea9f3c344a4c132d98bed6c905dd3d0062fe7a2ead9d60b8fd043252"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
