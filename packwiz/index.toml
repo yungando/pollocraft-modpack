@@ -93,10 +93,6 @@ file = "config/datapacks/no_dragon_griefing.zip"
 hash = "b5d008726108127615a3fe876704c8ed1395c9acdc4c8c5888b811a2e97d07b2"
 
 [[files]]
-file = "config/datapacks/nullscape-v1-1-1.zip"
-hash = "976a26d165224aeb50df87875ea7e6ab806d4e0e258eea3f21a4ce8ab5ceb30a"
-
-[[files]]
 file = "config/datapacks/player head drops v1.1.2.zip"
 hash = "499d8f0c1df4bf220c5ae80b9484c886728cebf14b7611a2463846ec990669f1"
 
@@ -155,7 +151,7 @@ preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "89d3fd9e5558b0720b2ff57d07b4b39b4c6a3c5c6b306668c3905933dcc0c00f"
+hash = "9d81d7a2015588d181923ce1d7eea165dfa0034bafbc96521649e3695683fe13"
 preserve = true
 
 [[files]]
