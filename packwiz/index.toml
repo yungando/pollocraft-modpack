@@ -93,6 +93,10 @@ file = "config/datapacks/no_dragon_griefing.zip"
 hash = "9a3b56fb4c91afaa8873fb2775b68144b257e64ef30f6aef3a8f6c0bbab38497"
 
 [[files]]
+file = "config/datapacks/nullscape-v1-1-1.zip"
+hash = "976a26d165224aeb50df87875ea7e6ab806d4e0e258eea3f21a4ce8ab5ceb30a"
+
+[[files]]
 file = "config/datapacks/player head drops v1.1.2.zip"
 hash = "499d8f0c1df4bf220c5ae80b9484c886728cebf14b7611a2463846ec990669f1"
 
@@ -114,16 +118,16 @@ hash = "227b05c30b68a900a310df56c4feac5b44defe10d769f2fe6651fea3a8f505e8"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "e739a07478b77659d573ebb4e644ea5056d7ad523e814962cca468d538038b39"
+hash = "26c6315f284dd1844c4045f4d48f4e3c13dc0eabc228f3a08550045bf8f83195"
 
 [[files]]
 file = "config/iris.properties"
-hash = "956400bb584ed8cf398c8df0d814eb209e70f85e1ab74550a02d2f74596f9e44"
+hash = "2657bedc645ca4a8df8f60d2f6fae2ad73d14f58b35b534ee5092fdf4dff603b"
 preserve = true
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b245a91f6278c5b534dcff3d459b8ad4208deeeb4db61e9f503b7d543b80d9ce"
+hash = "1641463d9170c611944aa37c83905f438135c637365416677736750f441a0aff"
 
 [[files]]
 file = "config/minihud.json"
@@ -370,11 +374,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.toml"
 hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
-metafile = true
-
-[[files]]
-file = "mods/nullscape-end-reborn.toml"
-hash = "267cd4461bdf924670b71649b39ee083dd4daa869e2ce712095c9056878175ee"
 metafile = true
 
 [[files]]
