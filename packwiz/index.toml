@@ -411,6 +411,11 @@ hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
 
 [[files]]
+file = "mods/wi-zoom.toml"
+hash = "f227dfb3fe1c2e94eee656330fe795804bd97b2757ba03d98b674fa52fcc2abc"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.toml"
 hash = "527e21c9bc55b0d1db9016a2fec4ff2dee2a93c53edb8c1363d2d2ee7730afd0"
 metafile = true
@@ -438,11 +443,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-fabric.toml"
 hash = "5ffcf0294b22212a582689ac14582724c9db20461639fe7175766b3319d49f6b"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.toml"
-hash = "63c9e989d5a5ff668ca6e0959d6a4d0378c0b51169450772de30ecaeedcce1ce"
 metafile = true
 
 [[files]]
