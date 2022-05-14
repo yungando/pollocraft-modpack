@@ -159,11 +159,15 @@ hash = "89d3fd9e5558b0720b2ff57d07b4b39b4c6a3c5c6b306668c3905933dcc0c00f"
 preserve = true
 
 [[files]]
+file = "mods/Terralith.jar"
+hash = "95374ef352d83cd7dad2bedffc0f350876c4575be266e183e2841ba065cc3ffc"
+
+[[files]]
 file = "mods/XaerosWorldMap.jar"
 hash = "441f9b4ad20d81cf9a40a14e8b112dc45759214cc55ddaedb5f60973b308a628"
 
 [[files]]
-file = "mods/YungsBetterDesertTemples-1.18.2-Fabric-1.0.0.jar"
+file = "mods/YungsBetterDesertTemples.jar"
 hash = "3e5ce1bf98a084418759ed833f2b6cdf6c2cc02e759d9e89024462d06bae3168"
 
 [[files]]
@@ -399,11 +403,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
-metafile = true
-
-[[files]]
-file = "mods/terralith.toml"
-hash = "314bb864fbd249ff543bb842db256c9a34a4f00645086e2133abe02284f855b9"
 metafile = true
 
 [[files]]
