@@ -201,6 +201,11 @@ hash = "85f3ba11c05d688f772f04f226eb010bc4d667b7da987182e15aca89a578f3c9"
 metafile = true
 
 [[files]]
+file = "mods/better-resource-pack-sorting.toml"
+hash = "45d2cc215e71674c17d5f70dd76acc76415dd9eedd6d0ab246f2326511ba8b02"
+metafile = true
+
+[[files]]
 file = "mods/bobby.toml"
 hash = "4491272cf1fb2adb67386c5432b4358197dc1516981460d8e0dcae972b9fe437"
 metafile = true
@@ -442,15 +447,15 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
-hash = "7725e893351352eba9dcca4e3e98fea47c8f5b6dbea4d5d44c526d0a29f5f2e9"
+hash = "d37ee3a66a84bbcf51a83df4e978bad451dfb7d1ea54989352123729e2002392"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "b50ac6b2bc57de8d379ed5891e9ccda88a9324432438c542fba737f3fdfd07c5"
+hash = "f8d606ae6e55bdf841a7b9206b03bf3219dd9be28a6a4a933e9025ed662df2ed"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "ed4ae29cd4b40ec448e1648e74c50914ce10a4e1d2481dca8fb6aa207c618b16"
+hash = "4014a6f8141a5bf35883ea880f5d504cd1b0fd0abfe171ec93d67bd6a63073a7"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
