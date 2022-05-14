@@ -1,7 +1,8 @@
 {
-    "pack":
+	"pack":
 	{
-        "pack_format": 8,
-        "description": "pollo"
-    }
+		"pack_format": 8,
+		"name": "pollocraft",
+		"description": "pollo"
+	}
 }

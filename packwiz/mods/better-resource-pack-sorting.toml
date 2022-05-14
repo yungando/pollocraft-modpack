@@ -1,0 +1,13 @@
+name = "Better Resource Pack Sorting"
+filename = "BetterResourcePackSorting-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3790/122/BetterResourcePackSorting-1.1.0.jar"
+hash-format = "sha1"
+hash = "359ce089a21e8ade22a8897616bdd399073d26ca"
+
+[update]
+[update.curseforge]
+file-id = 3790122
+project-id = 556855

@@ -1,6 +1,8 @@
 {
-  "pack": {
-    "pack_format": 8,
-    "description": "big man tings"
-  }
+	"pack":
+	{
+		"pack_format": 8,
+		"name": "ando's pack",
+		"description": "big man tings"
+	}
 }

@@ -93,10 +93,6 @@ file = "config/datapacks/no_dragon_griefing.zip"
 hash = "b5d008726108127615a3fe876704c8ed1395c9acdc4c8c5888b811a2e97d07b2"
 
 [[files]]
-file = "config/datapacks/nullscape-v1-1-1.zip"
-hash = "976a26d165224aeb50df87875ea7e6ab806d4e0e258eea3f21a4ce8ab5ceb30a"
-
-[[files]]
 file = "config/datapacks/player head drops v1.1.2.zip"
 hash = "499d8f0c1df4bf220c5ae80b9484c886728cebf14b7611a2463846ec990669f1"
 
@@ -155,7 +151,7 @@ preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "89d3fd9e5558b0720b2ff57d07b4b39b4c6a3c5c6b306668c3905933dcc0c00f"
+hash = "9d81d7a2015588d181923ce1d7eea165dfa0034bafbc96521649e3695683fe13"
 preserve = true
 
 [[files]]
@@ -198,6 +194,11 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.toml"
 hash = "85f3ba11c05d688f772f04f226eb010bc4d667b7da987182e15aca89a578f3c9"
+metafile = true
+
+[[files]]
+file = "mods/better-resource-pack-sorting.toml"
+hash = "45d2cc215e71674c17d5f70dd76acc76415dd9eedd6d0ab246f2326511ba8b02"
 metafile = true
 
 [[files]]
@@ -406,6 +407,11 @@ hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
 
 [[files]]
+file = "mods/wi-zoom.toml"
+hash = "f227dfb3fe1c2e94eee656330fe795804bd97b2757ba03d98b674fa52fcc2abc"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.toml"
 hash = "527e21c9bc55b0d1db9016a2fec4ff2dee2a93c53edb8c1363d2d2ee7730afd0"
 metafile = true
@@ -436,21 +442,16 @@ hash = "5ffcf0294b22212a582689ac14582724c9db20461639fe7175766b3319d49f6b"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.toml"
-hash = "63c9e989d5a5ff668ca6e0959d6a4d0378c0b51169450772de30ecaeedcce1ce"
-metafile = true
-
-[[files]]
 file = "resourcepacks/VanillaTweaks.zip"
-hash = "7725e893351352eba9dcca4e3e98fea47c8f5b6dbea4d5d44c526d0a29f5f2e9"
+hash = "d37ee3a66a84bbcf51a83df4e978bad451dfb7d1ea54989352123729e2002392"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "b50ac6b2bc57de8d379ed5891e9ccda88a9324432438c542fba737f3fdfd07c5"
+hash = "f8d606ae6e55bdf841a7b9206b03bf3219dd9be28a6a4a933e9025ed662df2ed"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "ed4ae29cd4b40ec448e1648e74c50914ce10a4e1d2481dca8fb6aa207c618b16"
+hash = "d176556850d6c4c48819dcdab1c0f00cb15f3a247decaf569700c747acdeef40"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
