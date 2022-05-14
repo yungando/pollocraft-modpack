@@ -155,7 +155,7 @@ preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c7518b0a2af2c8924fe28bd1eb4f76aa452d4a8f16fca78a607f2d48181d86f4"
+hash = "89d3fd9e5558b0720b2ff57d07b4b39b4c6a3c5c6b306668c3905933dcc0c00f"
 preserve = true
 
 [[files]]
@@ -447,24 +447,16 @@ hash = "63c9e989d5a5ff668ca6e0959d6a4d0378c0b51169450772de30ecaeedcce1ce"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Incendium_5.x_Biome_Name_Fix.zip"
-hash = "f304b0ec27e8ed7ee8c83ae7f93696c97ae481480c098b283125e99de9af64bd"
-
-[[files]]
-file = "resourcepacks/Terralith_2.2.x_Biome_Name_Fix.zip"
-hash = "1099fb7fa6a0f8d9c7100dbed3e787d255767feec126bbae24e2b39834340050"
-
-[[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "7725e893351352eba9dcca4e3e98fea47c8f5b6dbea4d5d44c526d0a29f5f2e9"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "95272a0d3088d7b89d201278527af0b521805e615ca78cb1f1ec05a294b4d7c2"
+hash = "b50ac6b2bc57de8d379ed5891e9ccda88a9324432438c542fba737f3fdfd07c5"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "bfe35dc402103b8f7299051e5aad2e8b444d4d1a79c0f65fbcd0206a53d3c210"
+hash = "ed4ae29cd4b40ec448e1648e74c50914ce10a4e1d2481dca8fb6aa207c618b16"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
