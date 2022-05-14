@@ -140,7 +140,7 @@ hash = "97ede1537114500f606689aef936e459b823e232e4ea5f4de1ed7f488c620155"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "e0dee3ccd21c15892ea30de58d23e22fa65e19eece047e71342cbd9c7143cb2c"
+hash = "affc4641b7512d3ed7191d8e6d848af700c6157e1bccdf05691d6a0fa24c727a"
 preserve = true
 
 [[files]]
