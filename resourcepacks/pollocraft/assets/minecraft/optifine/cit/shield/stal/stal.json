@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+	  "layer0": "minecraft:item/music_disc_stal"
+	  },
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [4, -2.5, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [4, -2.5, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, 5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 5]
+		}
+	}
+}

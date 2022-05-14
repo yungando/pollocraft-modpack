@@ -1,0 +1,33 @@
+{
+    "parent": "./caps_shield",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [40, 135, 5],
+			"translation": [0, 0, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [40, 135, 5],
+			"translation": [0, 0, 3]
+		},
+		"firstperson_righthand": {
+			"rotation": [4, 170, 0],
+			"translation": [-2, 1, 5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [4, 170, 0],
+			"translation": [-2, 1, 5]
+		},
+		"ground": {
+			"rotation": [-70, 0, 0]
+		},
+		"head": {
+			"translation": [0, -15, 3],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 0, 0.5],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}

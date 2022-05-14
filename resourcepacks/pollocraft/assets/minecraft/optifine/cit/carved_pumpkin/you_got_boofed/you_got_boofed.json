@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"top": "minecraft:block/pumpkin_top",
+		"front": "./you_got_boofed",
+		"side": "minecraft:block/pumpkin_side"
+	}
+}

@@ -1,8 +1,0 @@
-name = "VanillaTweaks"
-filename = "VanillaTweaks.zip"
-side = "both"
-
-[download]
-url = "https://github.com/yungando/andos-pack/raw/main/VanillaTweaks.zip"
-hash-format = "sha1"
-hash = "A76A4B7B2712FDADC4394FB1460451BB3D857B03"

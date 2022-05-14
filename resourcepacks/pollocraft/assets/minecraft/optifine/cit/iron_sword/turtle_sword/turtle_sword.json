@@ -1,0 +1,18 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "./turtle_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 55],
+			"translation": [-0.5, 6, 1],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -55],
+			"translation": [0.5, 6, 1],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}

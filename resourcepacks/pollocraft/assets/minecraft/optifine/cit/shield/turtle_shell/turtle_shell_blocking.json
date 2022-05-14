@@ -1,0 +1,21 @@
+{
+    "parent": "./turtle_shell",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [35, 125, 2.5],
+			"translation": [10, -2, -2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [35, 125, 2.5],
+			"translation": [10, -2, -2]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, -5],
+			"translation": [-0.5, -2.75, -8.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, -5],
+			"translation": [-3.5, -2.75, -8.75]
+		}
+	}
+}
