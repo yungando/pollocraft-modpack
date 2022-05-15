@@ -25,6 +25,10 @@ file = "config/datapacks/Climbable_Chains_1.4.zip"
 hash = "b0f8bdf445974808e8083ea84ead0494fc8a380aea9fd292083ef6552afeb5c7"
 
 [[files]]
+file = "config/datapacks/Crafting Tweaks.zip"
+hash = "f82ef77b9be26ee601aab528839241a94e8d8b8ae69c65b48f8dbfca5fb157dc"
+
+[[files]]
 file = "config/datapacks/Invisible_Item_Frames_2.2.zip"
 hash = "9b141c5766e5572a1a8066f81d0b13a3bc28174e59f5cbd1bac1127896170295"
 
@@ -451,7 +455,7 @@ hash = "f8d606ae6e55bdf841a7b9206b03bf3219dd9be28a6a4a933e9025ed662df2ed"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "d176556850d6c4c48819dcdab1c0f00cb15f3a247decaf569700c747acdeef40"
+hash = "5cc66bb5880723d0d941ef53be90f5750207f2c66aab07fb090d6b1df4b1d44d"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"

@@ -120,8 +120,5 @@
   "biome.incendium.toxic_heap": "Toxic Heap",
   "biome.incendium.volcanic_deltas": "Volcanic Deltas",
   "biome.incendium.weeping_valley": "Weeping Valley",
-  "biome.incendium.withered_forest": "Withered Forest",
-
-  "biome.nullscape.crystal_peaks": "Crystal Peaks",
-  "biome.nullscape.shadowlands": "Shadowlands"
+  "biome.incendium.withered_forest": "Withered Forest"
 }
