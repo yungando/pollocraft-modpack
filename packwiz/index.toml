@@ -143,6 +143,11 @@ file = "config/modmenu.json"
 hash = "97ede1537114500f606689aef936e459b823e232e4ea5f4de1ed7f488c620155"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "35ebba1b3e022be383bd98ccaab76e811cba1d6b0e01aa9331944312e43549fa"
+preserve = true
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "affc4641b7512d3ed7191d8e6d848af700c6157e1bccdf05691d6a0fa24c727a"
 preserve = true
@@ -387,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
 metafile = true
 
 [[files]]
