@@ -220,11 +220,6 @@ hash = "4491272cf1fb2adb67386c5432b4358197dc1516981460d8e0dcae972b9fe437"
 metafile = true
 
 [[files]]
-file = "mods/brb.toml"
-hash = "d225c6ff1ddf6be8fed438d159d802a7b23e536b7caed920450b836134b723dc"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.toml"
 hash = "514fca35d56842bf057e04b93848ef977156678bfc8949dfa2cdb2cdc04a7a0e"
 metafile = true
