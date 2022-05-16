@@ -13,6 +13,10 @@ file = "config/customwindowtitle/icon32.png"
 hash = "a7e624d73b9a39f7bf08973e98f455ee22fac90f4c05e9738cf9b8bb9b0e34f1"
 
 [[files]]
+file = "config/datapacks/Back-to-blocks.zip"
+hash = "4ea6a629fb8c1436ea6a36d8bd44567f1fb24b96551e2a65ac7ef7f930049eb5"
+
+[[files]]
 file = "config/datapacks/Bat_Membranes_1.4.zip"
 hash = "cadabb0d0ad3026c80b59c412f638563d72df43de9d62c9f6a415b191e1d82fd"
 
@@ -233,11 +237,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
-metafile = true
-
-[[files]]
-file = "mods/clumps.toml"
-hash = "8267db448b826bea1ef55b5a67afece8f04800ee09db1913972dd07ac4727eca"
 metafile = true
 
 [[files]]
