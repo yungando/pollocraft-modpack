@@ -462,6 +462,10 @@ file = "resourcepacks/pollocraft.zip"
 hash = "5cc66bb5880723d0d941ef53be90f5750207f2c66aab07fb090d6b1df4b1d44d"
 
 [[files]]
+file = "resourcepacks/sounds-of-the-skeng.zip"
+hash = "627aec79d53c5457904500731c9ff7cc6751bead248708dd964a724e406316e9"
+
+[[files]]
 file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
 hash = "b9e3ab3eea9f3c344a4c132d98bed6c905dd3d0062fe7a2ead9d60b8fd043252"
 
