@@ -134,6 +134,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "1641463d9170c611944aa37c83905f438135c637365416677736750f441a0aff"
 
 [[files]]
+file = "config/lightoverlay.properties"
+hash = "94e395e58bd9777c6244a3b443b729df9e51a12d14fc9b4fdb7393bc233f9c2a"
+
+[[files]]
 file = "config/minihud.json"
 hash = "33f233d9796e7e1eb69421bfad36abf6517457861e06b61c4f05ff970ca7f223"
 preserve = true
@@ -464,7 +468,7 @@ hash = "61b4d0e675e4a6146c61d228574b3bfd2be70186ac9f32c8d4bb6c52e17a1aa9"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "5cc66bb5880723d0d941ef53be90f5750207f2c66aab07fb090d6b1df4b1d44d"
+hash = "9bad787b824f068d9879b0bdab8f02dc7470c96602dbfc330b4a868e51fc1d8a"
 
 [[files]]
 file = "resourcepacks/sounds-of-the-skeng.zip"
