@@ -290,6 +290,11 @@ hash = "3a604924cdf2de5d376cfeed9e5399ce2c7c8bc5bdf7e70aebbe20bf163f9e05"
 metafile = true
 
 [[files]]
+file = "mods/extended-clouds.toml"
+hash = "52805169296b24b09e68695bb1ca5df2534296bfdefb335b9609617b20f3abaf"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
 metafile = true
