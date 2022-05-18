@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-resource-pack-sorting.toml"
-hash = "45d2cc215e71674c17d5f70dd76acc76415dd9eedd6d0ab246f2326511ba8b02"
+hash = "a73c25bda298fbc366d2e9c2baaa2d047e89c56fb03f23bb868a5ad47f535aad"
 metafile = true
 
 [[files]]
