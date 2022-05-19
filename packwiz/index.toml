@@ -176,6 +176,10 @@ hash = "9d81d7a2015588d181923ce1d7eea165dfa0034bafbc96521649e3695683fe13"
 preserve = true
 
 [[files]]
+file = "mods/HideNBT.jar"
+hash = "a391b7ec221c961923d83a8a8d297f662ba6cd31f1d0be1a47e64fcc3a7ebf3a"
+
+[[files]]
 file = "mods/Terralith.jar"
 hash = "95374ef352d83cd7dad2bedffc0f350876c4575be266e183e2841ba065cc3ffc"
 
