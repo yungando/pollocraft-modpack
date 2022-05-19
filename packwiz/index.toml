@@ -89,6 +89,10 @@ file = "config/datapacks/graves v2.8.5.zip"
 hash = "55915acb0cec5ed1f12912019d37920deb85052d636cc71d0b4614a1af5d5ccc"
 
 [[files]]
+file = "config/datapacks/hoglins_hate_overworld.zip"
+hash = "cd824324c577369d5b0e53e14a07f5fff8b2fe420e6d06fe13f68566b061f877"
+
+[[files]]
 file = "config/datapacks/multiplayer_sleep_v2.6.2_ando.zip"
 hash = "7212d90534af22902fcd640f572b486abe27525ba382110b7adc7ef20f393221"
 
