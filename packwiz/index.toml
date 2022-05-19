@@ -408,6 +408,11 @@ hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
 metafile = true
 
 [[files]]
+file = "mods/show-me-what-you-got.toml"
+hash = "432d99f2c43e5bd7aa703c4eccc9d6e6fe40d9d1e1b7d5c7ea0e305c8aa142da"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot.toml"
 hash = "0bb8efa177ff2c5b54bb0bcbadf5e5fd2ae57c0cb71e533e7d8b896f12d9af4b"
 metafile = true
