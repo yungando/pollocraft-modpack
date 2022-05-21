@@ -1,0 +1,6 @@
+{
+	"parent": "./player_skin",
+	"textures": {
+		"layer0": "./philownzyou"
+	}
+}
