@@ -217,6 +217,11 @@ hash = "d679cc54a6464c537dff2fdcc675b1c77b322af2e10bb248c1ee0bc8018c90a6"
 metafile = true
 
 [[files]]
+file = "mods/better-fps-render-distance-fabric.toml"
+hash = "423e11a366116da39f02e124a8aae1ab281b71ad4a82c8ed66b2c0b61815f13a"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.toml"
 hash = "85f3ba11c05d688f772f04f226eb010bc4d667b7da987182e15aca89a578f3c9"
 metafile = true
@@ -225,6 +230,10 @@ metafile = true
 file = "mods/better-resource-pack-sorting.toml"
 hash = "a73c25bda298fbc366d2e9c2baaa2d047e89c56fb03f23bb868a5ad47f535aad"
 metafile = true
+
+[[files]]
+file = "mods/betterfpsdist-fabric-1.18-1.8.jar"
+hash = "99998acb76db8cfb4323f94d258dc8284db6e99fcc0d71389b0031f213c3c57e"
 
 [[files]]
 file = "mods/boat-item-view.toml"
@@ -349,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/item-model-fix.toml"
 hash = "9ab8949bcb4280b1a4b97d40ded17b4786a6c4db1271c121a7fc52ea6f838e0e"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
 
 [[files]]

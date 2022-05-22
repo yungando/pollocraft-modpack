@@ -1,0 +1,13 @@
+name = "Krypton"
+filename = "betterfpsdist-fabric-1.18-1.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3768/225/betterfpsdist-fabric-1.18-1.8.jar"
+hash-format = "sha1"
+hash = "E6C34589A586600BAE7E7C1135D947229B9263FF"
+
+[update]
+[update.curseforge]
+file-id = 3768225
+project-id = 582640
