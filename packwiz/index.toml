@@ -232,10 +232,6 @@ hash = "a73c25bda298fbc366d2e9c2baaa2d047e89c56fb03f23bb868a5ad47f535aad"
 metafile = true
 
 [[files]]
-file = "mods/betterfpsdist-fabric-1.18-1.8.jar"
-hash = "99998acb76db8cfb4323f94d258dc8284db6e99fcc0d71389b0031f213c3c57e"
-
-[[files]]
 file = "mods/boat-item-view.toml"
 hash = "3d896a90628eeedf8ae6a00beda2eac9dd2e4c7517f717cd5886f28c4b02b409"
 metafile = true
