@@ -113,6 +113,10 @@ file = "config/datapacks/spectator night vision v1.1.2.zip"
 hash = "ab3967c91696976e68e2126e5a43285cb04151d4bd46c3e89b020a2ab78abb0b"
 
 [[files]]
+file = "config/datapacks/towns-and-towers-structure-overhaul-terralith-1-6.zip"
+hash = "3d41c1d683cd1958afde27a46a8048a2a300746f911f046ee7bdd3212e7928a2"
+
+[[files]]
 file = "config/datapacks/track raw statistics v1.5.2.zip"
 hash = "67c77b5becf9b5256f4828358e8a25ce2b2b083b820c814722f6a4617611c522"
 
