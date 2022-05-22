@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance-fabric.toml"
-hash = "423e11a366116da39f02e124a8aae1ab281b71ad4a82c8ed66b2c0b61815f13a"
+hash = "c934f3a65090edcb330db55bc8b3ae4ee3bb529617d0b03a97d4e89905630386"
 metafile = true
 
 [[files]]
