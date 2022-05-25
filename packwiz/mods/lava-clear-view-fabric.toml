@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://edge.forgecdn.net/files/3722/293/LavaClearView-1.18.2-fabric-4.0.1.jar"
 hash-format = "sha1"
-hash = "E6C34589A586600BAE7E7C1135D947229B9263FF"
+hash = "324A532DA7DCC5157323D91DE0E1179E400F8DC7"
 
 [update]
 [update.curseforge]

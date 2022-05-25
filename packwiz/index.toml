@@ -375,7 +375,8 @@ metafile = true
 
 [[files]]
 file = "mods/lava-clear-view-fabric.toml"
-hash = "1ba9c65514ee333ecd9bdd5938c815502946e12badd506da07f3c1da2282e886"
+hash = "b2207b190d0507daaf9efd41c84047e1e5dfb87dcbd67e1279e5f95f0ae48689"
+metafile = true
 
 [[files]]
 file = "mods/lazydfu.toml"
