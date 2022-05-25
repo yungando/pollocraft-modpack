@@ -29,6 +29,10 @@ file = "config/datapacks/Climbable_Chains_1.4.zip"
 hash = "b0f8bdf445974808e8083ea84ead0494fc8a380aea9fd292083ef6552afeb5c7"
 
 [[files]]
+file = "config/datapacks/Copper_Beacons_1.1.zip"
+hash = "26215a04b65ba96d657996e370a1f05ddcdac1e771e0325a56d99fff3d3948fd"
+
+[[files]]
 file = "config/datapacks/Crafting Tweaks.zip"
 hash = "f82ef77b9be26ee601aab528839241a94e8d8b8ae69c65b48f8dbfca5fb157dc"
 
@@ -368,6 +372,10 @@ metafile = true
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
+
+[[files]]
+file = "mods/lava-clear-view-fabric.toml"
+hash = "1ba9c65514ee333ecd9bdd5938c815502946e12badd506da07f3c1da2282e886"
 
 [[files]]
 file = "mods/lazydfu.toml"

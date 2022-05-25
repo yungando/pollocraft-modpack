@@ -1,12 +1,12 @@
 name = "pollocraft"
 author = "yungando"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "99cddce331c73a2eac68b352e78b8c613c665b04d9399fd2ee169acbb4fcde61"
+hash = "67a7b1c13776810ade2b13f5282aeeb811dd7e99d89734cddbc2801061c28b5a"
 
 [versions]
 fabric = "0.14.4"
