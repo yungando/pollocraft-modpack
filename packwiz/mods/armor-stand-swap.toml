@@ -3,9 +3,9 @@ filename = "armor-stand-swap-1.0.2.jar"
 side = "both"
 
 [download]
+url = "https://edge.forgecdn.net/files/3801/850/armor-stand-swap-1.0.2.jar"
 hash-format = "sha1"
 hash = "19c7ada518d45995d38d94ea8b60000a264b497c"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
