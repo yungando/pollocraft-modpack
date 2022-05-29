@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-stand-swap.toml"
-hash = "5420f196fddbce4ae8bfb666a577b21e50c6bd394bfe464a7cd3dd3d1455f858"
+hash = "cc806cc4c4fae6f4561988698b7082e6ac9ad1e8b2733cacf3a4a7003206f831"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.toml"
-hash = "3a604924cdf2de5d376cfeed9e5399ce2c7c8bc5bdf7e70aebbe20bf163f9e05"
+hash = "2c8c0f47e23586c8379c4f4f260812391137718e2f5333c5f0c3c0e9d34f88f5"
 metafile = true
 
 [[files]]
@@ -504,11 +504,11 @@ hash = "d37ee3a66a84bbcf51a83df4e978bad451dfb7d1ea54989352123729e2002392"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "61b4d0e675e4a6146c61d228574b3bfd2be70186ac9f32c8d4bb6c52e17a1aa9"
+hash = "521b8174d090eab7f00abf8d5b804e6a803df804db44bb39d1e21c0412574f37"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "5c89fc7e8594f2860d72de5ae5fa13649998f25719000b7f30bec958796c8782"
+hash = "2944664da8b2d93d94c53375732b57ac39920716d3637c90d691e2fd8e92c8ed"
 
 [[files]]
 file = "resourcepacks/sounds-of-the-skeng.zip"
