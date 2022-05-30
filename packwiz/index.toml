@@ -21,6 +21,10 @@ file = "config/datapacks/Bat_Membranes_1.4.zip"
 hash = "cadabb0d0ad3026c80b59c412f638563d72df43de9d62c9f6a415b191e1d82fd"
 
 [[files]]
+file = "config/datapacks/Blasted_Ore_Blocks_1.1.zip"
+hash = "03cdc98819fdf2269b803c6d8927e98b77b277ac2b72acca85ccf47c71d1fe5b"
+
+[[files]]
 file = "config/datapacks/Chicken_Shedding_1.4.zip"
 hash = "c2473f36a86ab8532a2a812490260d0603266fb93bb26d5a9a48221c0b72a550"
 
@@ -508,7 +512,7 @@ hash = "521b8174d090eab7f00abf8d5b804e6a803df804db44bb39d1e21c0412574f37"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "2944664da8b2d93d94c53375732b57ac39920716d3637c90d691e2fd8e92c8ed"
+hash = "cc890d73a9995f9e9a4fe1cecd0901a70d277478a0b0a1bd68956ba19201b780"
 
 [[files]]
 file = "resourcepacks/sounds-of-the-skeng.zip"
