@@ -145,10 +145,6 @@ file = "config/entity_texture_features.json"
 hash = "26c6315f284dd1844c4045f4d48f4e3c13dc0eabc228f3a08550045bf8f83195"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "62afaecd0f4fdefa1d889a73c9d63178362dcd18582749288551820b9800ea89"
-
-[[files]]
 file = "config/iris.properties"
 hash = "2657bedc645ca4a8df8f60d2f6fae2ad73d14f58b35b534ee5092fdf4dff603b"
 preserve = true
@@ -278,11 +274,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "7a3560c83727e3fac4807c6b2cac054569966dd1f09c5883e1ef78988568b45e"
-metafile = true
-
-[[files]]
-file = "mods/compactchat.pw.toml"
-hash = "21ca3c066fd50f3491f740e1a5d3b282e4ef745e826d22ba1f8b98ac22fb0584"
 metafile = true
 
 [[files]]
@@ -512,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
-hash = "d37ee3a66a84bbcf51a83df4e978bad451dfb7d1ea54989352123729e2002392"
+hash = "8307a366db08f399e0265c24c26e1307d2f53a7e5734584b942acc3d476cbafb"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
