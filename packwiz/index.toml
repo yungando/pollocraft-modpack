@@ -145,6 +145,10 @@ file = "config/entity_texture_features.json"
 hash = "26c6315f284dd1844c4045f4d48f4e3c13dc0eabc228f3a08550045bf8f83195"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "62afaecd0f4fdefa1d889a73c9d63178362dcd18582749288551820b9800ea89"
+
+[[files]]
 file = "config/iris.properties"
 hash = "2657bedc645ca4a8df8f60d2f6fae2ad73d14f58b35b534ee5092fdf4dff603b"
 preserve = true
