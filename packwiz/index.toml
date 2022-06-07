@@ -432,6 +432,10 @@ hash = "e5ab6643ccb4187bedd1805bd726101aed625b5ae347aed8492d84c766d5c216"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.toml"
+hash = "3da1c6f350407d59ac89fdaf76f28b53b96ab40267edd3f750d9f4c482327d5d"
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "2d53c4af1ea8cb9b8db1104e16b227c775ef65ff47f0d459135a02dfc85db2e8"
 metafile = true
@@ -512,7 +516,7 @@ hash = "8307a366db08f399e0265c24c26e1307d2f53a7e5734584b942acc3d476cbafb"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "6232bffe967c89ef524ec85abe12d38f3f0a2f70aac603daa1535e5a0d64c46b"
+hash = "433b8fc406983753b27e168bd057d854d8904abba16900652231ca071e1e5533"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
