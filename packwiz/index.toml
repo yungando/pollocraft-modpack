@@ -192,6 +192,11 @@ hash = "9d81d7a2015588d181923ce1d7eea165dfa0034bafbc96521649e3695683fe13"
 preserve = true
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "5507e7336ae10ac5eede884e5d0eb6ad24f5823c6792147addd1a8f57a9e179e"
+metafile = true
+
+[[files]]
 file = "mods/HideNBT.jar"
 hash = "a391b7ec221c961923d83a8a8d297f662ba6cd31f1d0be1a47e64fcc3a7ebf3a"
 
