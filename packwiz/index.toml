@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "07dc8b6b90eb549554a26a111f05b54e8459dd8150f5f3c146a05c3400b7c7ff"
+hash = "5ff4e61ba19baca3337f1ff6aa31a6d906d8c30efe8af15dce3f44beb8297d5f"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ hash = "433b8fc406983753b27e168bd057d854d8904abba16900652231ca071e1e5533"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "73c1117a23513b178dcae2d354c07b5c3040ef4f7f797d9cdc72d24f707d9f7b"
+hash = "8e365652a1c1cb5fb851a34e4bf2c1a91e1ebfbf2a25bc22756d95bdfb17f5d3"
 
 [[files]]
 file = "resourcepacks/sounds-of-the-skeng.zip"
