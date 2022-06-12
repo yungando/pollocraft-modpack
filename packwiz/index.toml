@@ -192,6 +192,10 @@ hash = "9d81d7a2015588d181923ce1d7eea165dfa0034bafbc96521649e3695683fe13"
 preserve = true
 
 [[files]]
+file = "mods/ArmouredElytra.jar"
+hash = "344de13ab48449bedd32e2d40dda58eb7bf324daff5abe6fb9fabdbd7e35026a"
+
+[[files]]
 file = "mods/HideNBT.jar"
 hash = "a391b7ec221c961923d83a8a8d297f662ba6cd31f1d0be1a47e64fcc3a7ebf3a"
 
@@ -208,10 +212,6 @@ file = "mods/XaerosWorldMap.jar"
 hash = "441f9b4ad20d81cf9a40a14e8b112dc45759214cc55ddaedb5f60973b308a628"
 
 [[files]]
-file = "mods/YungsBetterDesertTemples.jar"
-hash = "3e5ce1bf98a084418759ed833f2b6cdf6c2cc02e759d9e89024462d06bae3168"
-
-[[files]]
 file = "mods/advancements-enlarger.toml"
 hash = "eea30bf3a3f1f9350f871b5b652068b890acaeecca92dd74bae45c2a1b833f0f"
 metafile = true
@@ -223,18 +223,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
+hash = "62023af97326e7f5973d9704af59a498118c07227fcc1ab607da007e62b90e88"
 metafile = true
 
 [[files]]
-file = "mods/armor-stand-swap.toml"
-hash = "5420f196fddbce4ae8bfb666a577b21e50c6bd394bfe464a7cd3dd3d1455f858"
-metafile = true
-
-[[files]]
-file = "mods/armored-elytra.toml"
-hash = "d679cc54a6464c537dff2fdcc675b1c77b322af2e10bb248c1ee0bc8018c90a6"
-metafile = true
+file = "mods/armor-stand-swap-1.0.2.jar"
+hash = "dd43c260a3a726e79b768bf73177b8e22a6105b461b782166245e3561d10c66c"
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
@@ -258,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "da0c8ca6755f0e2e420d88bdbd23d1c1e132394f387d3c48851963a3221b9475"
+hash = "e306361a119aa0b97d0b9966dfb750ff09d377281607e8e8a2b194ecbf78293b"
 metafile = true
 
 [[files]]
@@ -273,7 +267,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7a3560c83727e3fac4807c6b2cac054569966dd1f09c5883e1ef78988568b45e"
+hash = "4ed6f98bd55bde1e076f864ba2b3918710ef2ee664ca332fd538c6ca27f280a0"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.pw.toml"
+hash = "9af40825e425e5ada934f20db5be6ca89cbaf7849400473b5fd30223471835ae"
 metafile = true
 
 [[files]]
@@ -328,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "23930f5c1fb185ac4f7cac3dcd65af390dafd0b462b456a37a04226d9890cbe6"
+hash = "f247d76f0b745b541b5f355e57ecf9b1da73eb13910759d630380ed54e1eef34"
 metafile = true
 
 [[files]]
@@ -387,8 +386,8 @@ hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
 metafile = true
 
 [[files]]
-file = "mods/light-overlay.toml"
-hash = "551328f7f97a853f48d6c6d915e422bfc41eadc50e1180727af2a1d9de60de22"
+file = "mods/light-overlay.pw.toml"
+hash = "829bf8f9603c771a95f8342f54797cc3d23bb1ce47c45a2c70fe68449a2f5f78"
 metafile = true
 
 [[files]]
@@ -437,12 +436,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b62d450c909c7edb4b677b6ffff2f9f582db060bd7b457d7a59490547750df71"
+hash = "d714f6e72ebc849970b4c28384ed68f95624f497ea39d18b92e3e79251cbf659"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.toml"
-hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
+file = "mods/roughly-enough-items.pw.toml"
+hash = "92b32f3161765c757923b6470a887c7ea93d831a1ebf034f4d66eccef9892820"
 metafile = true
 
 [[files]]
@@ -457,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8a2f7bd4e0b892213e121ace77cbe399351a8c9d1ce12a8dc13973d9ec7a50dc"
+hash = "dd3572a0414b6d647f18d4571a8007f0f93ebd7092d08aefa194861878a42c6f"
 metafile = true
 
 [[files]]
@@ -476,13 +475,18 @@ hash = "f227dfb3fe1c2e94eee656330fe795804bd97b2757ba03d98b674fa52fcc2abc"
 metafile = true
 
 [[files]]
-file = "mods/yosbr.toml"
-hash = "527e21c9bc55b0d1db9016a2fec4ff2dee2a93c53edb8c1363d2d2ee7730afd0"
+file = "mods/yosbr.pw.toml"
+hash = "f7b06cb8ec7928fff97239728f125646d9100499fc99281a1fd73486e5fa1841"
 metafile = true
 
 [[files]]
 file = "mods/yungs-api-fabric.toml"
 hash = "83cbf868ae2dcd47190114b33904be6fe4d566a32d21047256388cacc688f71a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples-fabric.pw.toml"
+hash = "70cc49f32d0b64993b6191f7577999d76a160434e157e398cac84be821305fc6"
 metafile = true
 
 [[files]]
@@ -492,12 +496,17 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts-fabric.toml"
-hash = "cd3255946254add70b6a9372a22b1d975a91a270bcff1aaaef96b5171dee3ea1"
+hash = "3c78fbc0aeba672424eb457f0fabdf3b92ba2975066f089e7e769b8d32f828f8"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds-fabric.toml"
 hash = "13eff10a7835e007666cd6c7e518465312c003a306e531f47d9343893c4f2582"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-fabric.pw.toml"
+hash = "1fbc24ca586a8a27a786dd889dc24a60ad511e2d1915a5ad79e7245c4875d642"
 metafile = true
 
 [[files]]
@@ -515,7 +524,7 @@ hash = "433b8fc406983753b27e168bd057d854d8904abba16900652231ca071e1e5533"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "8e365652a1c1cb5fb851a34e4bf2c1a91e1ebfbf2a25bc22756d95bdfb17f5d3"
+hash = "b51931ae7cf686be382940c089cd15497d1f15aaf1cdd67201b446c033fa8a31"
 
 [[files]]
 file = "resourcepacks/sounds-of-the-skeng.zip"
