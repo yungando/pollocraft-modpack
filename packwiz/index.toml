@@ -520,11 +520,11 @@ hash = "8307a366db08f399e0265c24c26e1307d2f53a7e5734584b942acc3d476cbafb"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "433b8fc406983753b27e168bd057d854d8904abba16900652231ca071e1e5533"
+hash = "131ef37340619439dc5b450af25d2ff203b91c46c90f4763c5a214b9a7a88ac4"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "b51931ae7cf686be382940c089cd15497d1f15aaf1cdd67201b446c033fa8a31"
+hash = "414f5fd9d94913b101cbcdcd30cc4eea72f749cc852cf7940a900d2f4bb00b2f"
 
 [[files]]
 file = "resourcepacks/sounds-of-the-skeng.zip"
@@ -532,7 +532,7 @@ hash = "627aec79d53c5457904500731c9ff7cc6751bead248708dd964a724e406316e9"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
-hash = "b9e3ab3eea9f3c344a4c132d98bed6c905dd3d0062fe7a2ead9d60b8fd043252"
+hash = "0f1714a764efd19211b9888400b805b12330f4d871692ef46a1c8901191e59b3"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
