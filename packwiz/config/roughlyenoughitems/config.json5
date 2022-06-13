@@ -1,6 +1,13 @@
 {
 	"basics": {
 		"favorites": [],
+		"hiddenFavorites": [
+			"{mode:\"NOT_SET\",type:\"roughlyenoughitems:gamemode\"}",
+			"{mode:\"SPECTATOR\",type:\"roughlyenoughitems:gamemode\"}",
+			"{mode:\"ADVENTURE\",type:\"roughlyenoughitems:gamemode\"}",
+			"{mode:\"CREATIVE\",type:\"roughlyenoughitems:gamemode\"}",
+			"{mode:\"SURVIVAL\",type:\"roughlyenoughitems:gamemode\"}"
+		],
 		// Declares whether cheating mode is on.
 		"cheating": false,
 		"favoritesEnabled": true,
@@ -85,8 +92,6 @@
 			"entrySize": 1.0,
 			// Declares the position of the entry panel.
 			"displayPanelLocation": "RIGHT",
-			// Declares whether scrolled entry panel should snap to rows.
-			"snapToRows": false,
 			// Declares how the scrollbar in composite screen should act.
 			"compositeScrollBarPermanent": false,
 			"toastDisplayedOnCopyIdentifier": true,
@@ -135,7 +140,7 @@
 			// Declares the position of the config button.
 			"configButtonLocation": "LOWER",
 			// Declares whether the craftable filter button is enabled.
-			"enableCraftableOnlyButton": true
+			"showCraftableOnlyButton": true
 		},
 		// Declares the appearance of recipe's border.
 		"recipeBorder": "DEFAULT",

@@ -168,7 +168,7 @@ hash = "97ede1537114500f606689aef936e459b823e232e4ea5f4de1ed7f488c620155"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "35ebba1b3e022be383bd98ccaab76e811cba1d6b0e01aa9331944312e43549fa"
+hash = "aa0e5edbd30878406fe1ca29e574d51f6d6e2f82e798882f220922bb4ff903d2"
 preserve = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.pw.toml"
-hash = "829bf8f9603c771a95f8342f54797cc3d23bb1ce47c45a2c70fe68449a2f5f78"
+hash = "352e3f74a7bc1cbd108d95a06c45b5ae39652fc81113165862cb984e989d7295"
 metafile = true
 
 [[files]]
