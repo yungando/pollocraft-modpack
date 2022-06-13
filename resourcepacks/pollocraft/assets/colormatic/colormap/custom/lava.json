@@ -1,0 +1,37 @@
+{
+	"format": "grid",  
+	"source": "./lava.png",
+    "blocks": [ "lava", "flowing_lava", "lava_cauldron" ],
+	"grid": [
+		{
+			"biomes": [ "the_void", "the_end", "end_highlands", "end_midlands", "small_end_islands", "end_barrens" ],
+			"column": 251
+	    },
+	    {
+			"biomes": [ "incendium:toxic_heap" ],
+			"column": 253,
+			"width": 3
+	    },
+		{
+			"biomes": [ "incendium:weeping_valley" ],
+			"column": 54,
+			"width": 2
+		},
+		{
+			"biomes": [ "incendium:infernal_dunes" ],
+			"column": 252
+		},
+	    {
+			"biomes": [ "incendium:quartz_flats" ],
+			"column": 54
+		},
+		{
+			"biomes": [ "incendium:ash_barrens" ],
+			"column": 53
+		},
+		{
+			"biomes": [ "incendium:inverted_forest" ],
+			"column": 52
+		}
+	]
+}
