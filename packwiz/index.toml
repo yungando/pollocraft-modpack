@@ -151,7 +151,7 @@ preserve = true
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1641463d9170c611944aa37c83905f438135c637365416677736750f441a0aff"
+hash = "b40a1923790ef34d505f19bf9f454f4b281584f4aa2cad433c75ac5d67b3f52d"
 
 [[files]]
 file = "config/lightoverlay.properties"
@@ -163,8 +163,12 @@ hash = "33f233d9796e7e1eb69421bfad36abf6517457861e06b61c4f05ff970ca7f223"
 preserve = true
 
 [[files]]
+file = "config/minimalmenu.json"
+hash = "5466b98d792dff77595d55e42774aab48792819ffe279cf6f8db160c3af5c83c"
+
+[[files]]
 file = "config/modmenu.json"
-hash = "97ede1537114500f606689aef936e459b823e232e4ea5f4de1ed7f488c620155"
+hash = "e419bf2e8888c00e35a333f35aba352f90fb969029c9a4e4e8fd961fc044dc33"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
