@@ -1,0 +1,13 @@
+name = "Minimal Menu"
+filename = "minimalmenu-1.18.2-0.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7a7ac15badaf15d5827626e1c3e4b166a737fb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3798011
+project-id = 405795
