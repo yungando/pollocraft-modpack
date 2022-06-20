@@ -479,11 +479,6 @@ hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
 metafile = true
 
 [[files]]
-file = "mods/wavey-capes.pw.toml"
-hash = "3f873efc662edb1dc87ac399ab7e1ce070db2490b7d4b5c92ea6a199bb8e434c"
-metafile = true
-
-[[files]]
 file = "mods/wi-zoom.toml"
 hash = "5b86ed8f035b711fa105ec18ae2ab6865f25e44793cbec7801464958b0cd6f67"
 metafile = true
