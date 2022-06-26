@@ -14,7 +14,7 @@ hash = "a7e624d73b9a39f7bf08973e98f455ee22fac90f4c05e9738cf9b8bb9b0e34f1"
 
 [[files]]
 file = "config/iris.properties"
-hash = "2657bedc645ca4a8df8f60d2f6fae2ad73d14f58b35b534ee5092fdf4dff603b"
+hash = "ca8716f625c3e213254ef69c3cc35af132d5ccca1f315ccb54320acf0ef0190a"
 preserve = true
 
 [[files]]
@@ -310,6 +310,10 @@ file = "resourcepacks/andos-pack.zip"
 hash = "bbc7b2884ecbd067c991b3872d023d15b63362bae09e6e3bb8a0dd5dee949e47"
 
 [[files]]
+file = "resourcepacks/pollocraft-panoramas.zip"
+hash = "0103d74aec4215c96d2b0bb4d38dd2814670de4342e7117fd0294f4a68d2c108"
+
+[[files]]
 file = "resourcepacks/pollocraft.zip"
 hash = "06d26cc729397ce037ed94ba543969bbd71a8dc395d2bfc7520c81d22c678b10"
 
@@ -319,5 +323,5 @@ hash = "0f1714a764efd19211b9888400b805b12330f4d871692ef46a1c8901191e59b3"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "c242abd56ac0aa95e43157d5734ad3dbc0cc3f57dd955c95a6df808804aa4158"
+hash = "4cd8ff1a52c752075dc203961a1b6ede7b29f8bfa2f5fa598c3769bfe9827da5"
 metafile = true
