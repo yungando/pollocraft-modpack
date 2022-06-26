@@ -11,7 +11,7 @@ guiScale:2
 maxFps:260
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","file/VanillaTweaks.zip","file/andos-pack.zip","file/pollocraft.zip"]
+resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","file/VanillaTweaks.zip","file/andos-pack.zip","file/pollocraft-panoramas.zip","file/pollocraft.zip"]
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
@@ -20,4 +20,7 @@ key_key.sprint:key.keyboard.left.shift
 key_key.inventory:key.keyboard.tab
 key_key.chat:key.keyboard.enter
 key_key.playerlist:key.keyboard.t
+key_key.originsenhanced.navigator:key.keyboard.n
+key_key.originsenhanced.gesture_menu:key.keyboard.c
+key_key.ok_zoomer.zoom:key.keyboard.e
 soundCategory_music:0.5

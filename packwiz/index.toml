@@ -19,7 +19,7 @@ preserve = true
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b40a1923790ef34d505f19bf9f454f4b281584f4aa2cad433c75ac5d67b3f52d"
+hash = "1641463d9170c611944aa37c83905f438135c637365416677736750f441a0aff"
 
 [[files]]
 file = "config/lightoverlay.properties"
@@ -55,7 +55,7 @@ preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "3c6690eb2c06afde37b221f278a69ff41cb269c5eda66a4ff93c02de80369ef4"
+hash = "d73055fc95f784e5e2de6d9fbb71b8acfc03b40e3b2ac4a27c4779ff55ab868d"
 preserve = true
 
 [[files]]
@@ -145,11 +145,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "06a94fff81af2163694a46205ddc17acb866e5d0006d7f65ba5531a9d8b8d57c"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "e827579af29e5db22e80d7dfc61aee87e004c23880eff6a1391fa3e265dd3f56"
 metafile = true
 
 [[files]]
@@ -315,11 +310,11 @@ hash = "0103d74aec4215c96d2b0bb4d38dd2814670de4342e7117fd0294f4a68d2c108"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "06d26cc729397ce037ed94ba543969bbd71a8dc395d2bfc7520c81d22c678b10"
+hash = "162d99ea2535d9092a1976bed779a396676f11fe1c5cc580f193e7c677e7b532"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
-hash = "0f1714a764efd19211b9888400b805b12330f4d871692ef46a1c8901191e59b3"
+file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
+hash = "f236ce5de385e7b811ee4b90e45f58d4c23a304bdaaffd4c62b5643e5b2cc20b"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
