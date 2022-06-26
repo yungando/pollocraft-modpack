@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/9106643/166590981-eb05a22f-a20d-4623-bbcc-75db91a179e8.png">
 </p>
 
-# pollocraft
+# pollocraft lite
 
 A continuation of ando's recommended _vanilla_ mods from previous Minecraft seasons. Focuses on improving stability and performance, adding QoL, and supporting the server's custom resource pack.
 
@@ -21,6 +21,6 @@ And if this sounds like too much work:
 
 1 - Download and run the [MultiMC Launcher](https://multimc.org).
 
-2 - Download [pollocraft.zip](https://github.com/yungando/pollocraft/raw/main/MultiMC/pollocraft.zip) and drag it into the MultiMC window.
+2 - Download [pollocraft-lite.zip](https://github.com/yungando/pollocraft/raw/lite/MultiMC/pollocraft-lite.zip) and drag it into the MultiMC window.
 
-3 - MultiMC will check for updates whenever you launch the "pollocraft" instance.
+3 - MultiMC will check for updates whenever you launch the "pollocraft lite" instance.

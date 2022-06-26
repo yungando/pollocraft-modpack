@@ -1,0 +1,13 @@
+name = "Origins Enhanced (Fabric/Forge)"
+filename = "origins-enhanced-fabric-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7eae3826082f5d22f75282ffdc09b0ff86cc01d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3699163
+project-id = 433948
