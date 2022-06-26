@@ -1,0 +1,53 @@
+# Internal use only. Editing this line will wipe your config!
+version = "3"
+
+[features]
+	# Display your current network location as your Discord rich presence
+	"Rich Presence" = true
+	# Tracks your location across the network and provides your location to other features
+	"Location Tracker" = true
+
+[enhancements]
+	# Improves auto completion
+	# §7* Removes emojis from autocompletion without a colon
+	# §7* Adds autocompletion for pings
+	"Auto Completion Enhancements" = true
+	# Improves client-side gesture compatibility
+	# §7* Natively renders gesture parts to add compatibility for shaders
+	# §7* Allows players to walk with mobile gestures using WASD
+	"Gestures Compatibility" = true
+	# Prevent cosmetics from being clicked out of their slots
+	"Cosmetic Locking" = true
+	# When the HUD is hidden, hide custom nametags for cleaner screenshots
+	"Hide Names" = true
+	# Prevent advancements, recipe and tutorial messages from displaying on Origin Realms
+	"Disable Toasts" = true
+	# Interpolate armor stand poses to create smoother animations
+	"Smooth Animations" = true
+	# Prevent models from cutting off by expanding their bounding boxes
+	"Expand Model Bounding Box" = true
+	# Replaces item ids with the Origin Realms item id when hidden tooltips is enabled
+	"Custom Item IDs" = false
+	# Fixes visual issues with custom blocks
+	# §7* Foliage no longer renders incorrectly (Requires restart)
+	# §7* Removed right click action on non-interactable blocks
+	"Block Enhancements" = true
+	# Adds a back swag slot to your inventory
+	"Back Swag Slot" = true
+	# Enables minor tweaks to improve cutscenes
+	# §7* Sets FOV to 70 for fine tuning
+	# §7* Locks mouse in place to prevent moving during cutscenes
+	"Cutscene Enhancements" = true
+	# Removes emojis and NPCs from the social interaction menu
+	"Social Menu Filter" = true
+
+[utilities]
+	# Block chat messages that may appear as advertising
+	"Anti Advertise Filter" = false
+	# Play a ping noise when your auction item is sold
+	"Auction Ping" = true
+	# Send a notification on startup when a new update is available
+	"Update Notification" = true
+	# Send notifications when shops restock
+	"Restock Notification" = true
+

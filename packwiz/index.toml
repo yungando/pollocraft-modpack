@@ -18,10 +18,6 @@ hash = "ca8716f625c3e213254ef69c3cc35af132d5ccca1f315ccb54320acf0ef0190a"
 preserve = true
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "1641463d9170c611944aa37c83905f438135c637365416677736750f441a0aff"
-
-[[files]]
 file = "config/lightoverlay.properties"
 hash = "94e395e58bd9777c6244a3b443b729df9e51a12d14fc9b4fdb7393bc233f9c2a"
 
@@ -37,6 +33,10 @@ hash = "5466b98d792dff77595d55e42774aab48792819ffe279cf6f8db160c3af5c83c"
 [[files]]
 file = "config/modmenu.json"
 hash = "e419bf2e8888c00e35a333f35aba352f90fb969029c9a4e4e8fd961fc044dc33"
+
+[[files]]
+file = "config/originsenhanced.toml"
+hash = "44dd814c2687431debb44db81eb3e9c04da0864c5a32364ab0914c19d12a27a1"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -55,8 +55,12 @@ preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d73055fc95f784e5e2de6d9fbb71b8acfc03b40e3b2ac4a27c4779ff55ab868d"
+hash = "79f667921926fc98e9ed399561d2f7f32808946c28c2028326329d8d849ba85e"
 preserve = true
+
+[[files]]
+file = "mods/HideNBT.jar"
+hash = "0e12c1eadff07bd2f174d40a1d84d75e1f66277140ab437e0e998dcd3a67d234"
 
 [[files]]
 file = "mods/XaerosWorldMap.jar"
@@ -208,11 +212,6 @@ hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
 metafile = true
 
 [[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "7d059440095174c2a66f47b86edcb45f64378e5d57a66c4b8cb255ad27fcdf30"
-metafile = true
-
-[[files]]
 file = "mods/malilib.toml"
 hash = "fd88ab8b23121cea2b1c7d05f2b7cbbe76b93ced03d6b98f0b212521ccb0ecb2"
 metafile = true
@@ -243,8 +242,9 @@ hash = "e5ab6643ccb4187bedd1805bd726101aed625b5ae347aed8492d84c766d5c216"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.toml"
-hash = "3da1c6f350407d59ac89fdaf76f28b53b96ab40267edd3f750d9f4c482327d5d"
+file = "mods/morechathistory.pw.toml"
+hash = "5634b2cf0510a466bf206d771efcc5e1b9ba8f3c974265794cb9291a4be6840b"
+metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
