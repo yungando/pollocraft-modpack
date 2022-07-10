@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/capes.json5"
+hash = "57d23248e0b3d4578d9ef13f5d966f8b14d86dff3187c91da801ba9252ed7d6c"
+
+[[files]]
 file = "config/customwindowtitle-client.toml"
 hash = "99dad4db591e67b837f3510e3e610f75af08e2b80296196d68d2ddbba6146944"
 
