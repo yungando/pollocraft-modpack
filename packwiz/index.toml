@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/capes.json5"
+hash = "57d23248e0b3d4578d9ef13f5d966f8b14d86dff3187c91da801ba9252ed7d6c"
+
+[[files]]
 file = "config/customwindowtitle-client.toml"
 hash = "99dad4db591e67b837f3510e3e610f75af08e2b80296196d68d2ddbba6146944"
 
@@ -252,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "f0c17fb8a7cd21a1be3112ccc10f9dde232b6f09beba5534cf37a6472ad1b3df"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "8086f62e390321e37c926d526bbbb5c2f603a17c2c3f54b752ec46fd071861d6"
 metafile = true
 
 [[files]]
