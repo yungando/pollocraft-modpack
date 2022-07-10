@@ -97,6 +97,11 @@ hash = "f0c17fb8a7cd21a1be3112ccc10f9dde232b6f09beba5534cf37a6472ad1b3df"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "8086f62e390321e37c926d526bbbb5c2f603a17c2c3f54b752ec46fd071861d6"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "e306361a119aa0b97d0b9966dfb750ff09d377281607e8e8a2b194ecbf78293b"
 metafile = true
@@ -310,7 +315,7 @@ hash = "0103d74aec4215c96d2b0bb4d38dd2814670de4342e7117fd0294f4a68d2c108"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "162d99ea2535d9092a1976bed779a396676f11fe1c5cc580f193e7c677e7b532"
+hash = "d8f17caa802b15892488f6129b14db272af7395748b44e986aa8ba2e8039338f"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
