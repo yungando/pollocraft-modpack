@@ -1,0 +1,13 @@
+name = "Armor Chroma for Fabric"
+filename = "armorchroma-1.2.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pJnbPs9G/versions/ErSlXOFU/armorchroma-1.2.5.jar"
+hash-format = "sha1"
+hash = "cdce6c11f7c057286b95988e5ce726abbacde415"
+
+[update]
+[update.modrinth]
+mod-id = "pJnbPs9G"
+version = "ErSlXOFU"

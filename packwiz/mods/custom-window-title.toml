@@ -1,13 +1,13 @@
 name = "Custom Window Title"
-filename = "CustomWindowTitle-Fabric-1.17.1+v1.1.1.jar"
+filename = "CustomWindowTitle-Fabric-1.19.3+v1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3537/305/CustomWindowTitle-Fabric-1.17.1+v1.1.1.jar"
 hash-format = "sha1"
-hash = "37a7b22dd075b1478a81cdc379900d1f9b19d326"
+hash = "23c46327075f9315796a4099951071288b1a6959"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3537305
+file-id = 4309215
 project-id = 360673

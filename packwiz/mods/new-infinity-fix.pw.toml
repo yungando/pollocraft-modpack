@@ -1,0 +1,13 @@
+name = "New Infinty Fix"
+filename = "infinityfix-1.19.4-1.0.3+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VMKOBLKs/versions/ZBh1B6bX/infinityfix-1.19.4-1.0.3%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "07edbae5e6805d522697fc403f1438dd64eeaae0"
+
+[update]
+[update.modrinth]
+mod-id = "VMKOBLKs"
+version = "ZBh1B6bX"

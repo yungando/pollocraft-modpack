@@ -1,0 +1,13 @@
+name = "Lava Clear View (Fabric)"
+filename = "LavaClearView-1.19.2-fabric-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ac9157e7c7ef98174502b3d0fd381fcf8c6f532"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3987720
+project-id = 545176

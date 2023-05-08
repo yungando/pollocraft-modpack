@@ -1,0 +1,13 @@
+name = "Armored Elytra"
+filename = "armored-elytra-mc1.19.4-4.0.2+build.30.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sfhhS5yg/versions/59AepX7w/armored-elytra-mc1.19.4-4.0.2%2Bbuild.30.jar"
+hash-format = "sha1"
+hash = "0a31de7dead18856dfc0f4f64e331b8ad1215e79"
+
+[update]
+[update.modrinth]
+mod-id = "sfhhS5yg"
+version = "59AepX7w"

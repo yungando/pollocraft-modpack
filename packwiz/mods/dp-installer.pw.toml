@@ -1,0 +1,13 @@
+name = "Datapack Installer"
+filename = "DatapackInstaller-1.0.0.2-SNAPSHOT.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N3yT01en/versions/z44cvMYR/DatapackInstaller-1.0.0.2-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "156034fd65c580ac7c97acd2ba69dd74706e6713"
+
+[update]
+[update.modrinth]
+mod-id = "N3yT01en"
+version = "z44cvMYR"

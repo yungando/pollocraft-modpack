@@ -1,14 +1,13 @@
 name = "Crops Love Rain"
-filename = "crops_love_rain-1.2.2.jar"
+filename = "crops_love_rain-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cRci7UZp/versions/1.2.2/crops_love_rain-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/cRci7UZp/versions/1.3.0/crops_love_rain-1.3.0.jar"
 hash-format = "sha1"
-hash = "d07b51504e452cbe8f7835a9428bab47c4eb8ef4"
-mode = ""
+hash = "f43103db2c02dbc21f99df5901eef71c9693da27"
 
 [update]
 [update.modrinth]
 mod-id = "cRci7UZp"
-version = "HTt5tFfy"
+version = "ydd68ewP"
