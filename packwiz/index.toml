@@ -189,7 +189,7 @@ hash = "be6068496842635e17cdf173e62c1733ce7ebd55a28f7dd7dd07aa2be400e810"
 
 [[files]]
 file = "mods/XaerosWorldMap.jar"
-hash = "576d01c2c36bbca943be3b9fbe928138841192d0f5694d55968c5cbd63bf7cd3"
+hash = "18014b20bc9ed68c85cfcfb56e7c741d2725dd7468c490fd26ccf990c61c4c81"
 
 [[files]]
 file = "mods/accurate-maps.pw.toml"
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/dp-installer.pw.toml"
-hash = "ca906f165f1bac56582adbf264abd0b6f4c53ae65aacb5608a2192337a15e420"
+hash = "001352b91d525d816208fdaf6716473c24c833db17d40114bd7c0bdaa4678f75"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "a20da06b37ff4fd62465247f42a5a63f5ca507e081e50a97b52bf7afb69135dc"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
