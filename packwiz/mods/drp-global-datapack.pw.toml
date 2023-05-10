@@ -1,0 +1,13 @@
+name = "Global Packs"
+filename = "global_packs-quilt-1.19.2-1.14.2_quilt.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3ebb00c4725ea44ff75987e3519cc978e697d7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3950164
+project-id = 317134
