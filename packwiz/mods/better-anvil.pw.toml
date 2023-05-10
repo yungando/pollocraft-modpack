@@ -1,13 +1,13 @@
 name = "Better Anvil"
-filename = "BetterAnvil-1.2.2+1.19.4.jar"
+filename = "BetterAnvil-1.2.2+1.19-2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jZJ9eGkD/versions/uj4p8frK/BetterAnvil-1.2.2%2B1.19.4.jar"
+url = "https://cdn.modrinth.com/data/jZJ9eGkD/versions/gMOM80JK/BetterAnvil-1.2.2%2B1.19-2.jar"
 hash-format = "sha1"
-hash = "e963fee27194dd57f34b96ec7056bfb93eaa0e98"
+hash = "b1d6b58059065bcfecee575d8066c36c7d1392ba"
 
 [update]
 [update.modrinth]
 mod-id = "jZJ9eGkD"
-version = "uj4p8frK"
+version = "gMOM80JK"

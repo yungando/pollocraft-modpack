@@ -3,11 +3,11 @@ filename = "DatapackInstaller-1.0.0.2-SNAPSHOT.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/N3yT01en/versions/z44cvMYR/DatapackInstaller-1.0.0.2-SNAPSHOT.jar"
+url = "https://cdn.modrinth.com/data/N3yT01en/versions/enJMIWBA/DatapackInstaller-1.0.0.2-SNAPSHOT.jar"
 hash-format = "sha1"
-hash = "156034fd65c580ac7c97acd2ba69dd74706e6713"
+hash = "74994f2154848173befb5e1cc41397147c8ae9f5"
 
 [update]
 [update.modrinth]
 mod-id = "N3yT01en"
-version = "z44cvMYR"
+version = "enJMIWBA"
