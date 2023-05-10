@@ -12,6 +12,7 @@ maxFps:260
 biomeBlendRadius:7
 renderClouds:true
 resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","armorchroma/alternative-icons","minecraft/supporteatinganimation","file/VanillaTweaks.zip","file/andos-pack.zip","file/pollocraft-panoramas.zip","file/pollocraft.zip"]
+incompatibleResourcePacks:["file/VanillaTweaks.zip","file/andos-pack.zip","file/pollocraft-panoramas.zip","file/pollocraft.zip"]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true

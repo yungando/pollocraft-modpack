@@ -76,7 +76,7 @@ preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "898e0aebcbd22754aa5542d7655cc5213b9f573a89848fa91385ce06c393a715"
+hash = "c31eb18fa30e9facbc9967d6d9d720f09464a8c9b826ca7df665ca8b6b50924a"
 preserve = true
 
 [[files]]
@@ -600,11 +600,11 @@ hash = "3d714a75eece086a9c3027b06036ce04714f33ae9d5ecfd42013440352eed07f"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
-hash = "1f34506a6cdea716b17dec1a5e977ba4e9801ebecb0a4968103129c987dddf16"
+hash = "68e48a7da0d1d9463c46e06cf04d28d76333474642dcfacc8caf5d57294821ee"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "7040498f87abae81d5137618becba52dd3207be7d5e25b6684576e573e1fc100"
+hash = "700f3c78db53897b22f432045da781ab8813166be3f800fc6cea5d9964fd2dee"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
