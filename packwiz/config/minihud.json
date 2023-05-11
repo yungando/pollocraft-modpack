@@ -1,1 +1,1 @@
-{"Generic":{"fontScale": 1.0},"InfoTypeToggles":{"infoBiome":true,"infoEntities":false,"infoTimeIRL":false},"InfoHotkeys":{"infoBiome":{"keys":""},"infoEntities":{"keys":"G"},"infoTimeIRL":{"keys": ""}},"config_version": 1}
+{"Generic":{"fontScale": 1.0},"InfoTypeToggles":{"infoBiome":true,"infoEntities":false,"infoFPS":true,"infoTimeIRL":false},"InfoHotkeys":{"infoBiome":{"keys":""},"infoEntities":{"keys":"G"},"infoTimeIRL":{"keys": ""}},"config_version": 1}

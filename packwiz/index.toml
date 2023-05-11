@@ -51,7 +51,7 @@ hash = "bf0625692659331c95874a9e644aecf2cac45ea27ba69005e692f2717b5f9947"
 
 [[files]]
 file = "config/minihud.json"
-hash = "82e425a9586dce5f7ddc7797ba73f85fb8a2322700743357651b02ab3711f344"
+hash = "4b53eea088523107feec427f95b80a2c0c97f137ddd2f24aadd2541ee6eb6908"
 preserve = true
 
 [[files]]
@@ -79,7 +79,7 @@ preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6a23c928733173886265e320972b3ca995b133e5c9ad0f21a6232aa82684d2d8"
+hash = "7b351d2da2eac050987ea8375e81a233842ecdae5a13e7435fc546f73d9de35a"
 preserve = true
 
 [[files]]
@@ -105,6 +105,10 @@ hash = "016ce8551b2e176e32378be273fe13bc380f4759e5674ac49fff41d88aee5d46"
 [[files]]
 file = "global_packs/required_data/Further_Fermentation_1.4.1.zip"
 hash = "0b845417fc1e10d79006d8a56a81a5d1af0e2c5bf67407458901136082abc0a7"
+
+[[files]]
+file = "global_packs/required_data/Remove_Terralith_Intro_Message_v1.0.zip"
+hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 
 [[files]]
 file = "global_packs/required_data/Server_Friendly_Wither_1.4.1.zip"
@@ -199,11 +203,6 @@ file = "mods/XaerosWorldMap.jar"
 hash = "18014b20bc9ed68c85cfcfb56e7c741d2725dd7468c490fd26ccf990c61c4c81"
 
 [[files]]
-file = "mods/accurate-maps.pw.toml"
-hash = "3ea92e4f977b25ffad6ffb8336ddeaabf38a6f72243aebc1b7b621da8fac7263"
-metafile = true
-
-[[files]]
 file = "mods/advancements-enlarger.pw.toml"
 hash = "175be1920d256498fa963fae677cc060c2ff33d6b3f129dd806e7ef130e86506"
 metafile = true
@@ -258,11 +257,6 @@ hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
 metafile = true
 
 [[files]]
-file = "mods/camera-utils.pw.toml"
-hash = "a3326c6be394dd05dc7758f6187a4e2ddd416fd47b387ea40eef180c65b5ea7e"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
@@ -280,11 +274,6 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
-metafile = true
-
-[[files]]
-file = "mods/cleardespawn.pw.toml"
-hash = "f55726e64eabcfdcb0b02657c74889f8e135a5424dc423c55450117618a2ad11"
 metafile = true
 
 [[files]]
@@ -393,6 +382,11 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "efcc25b88be11ae20eb1deefd9cdf49e26a08f4d18cc9b0bbb6b172b404e5ff3"
+metafile = true
+
+[[files]]
 file = "mods/grass-kiss.pw.toml"
 hash = "85d7e2120286264565ce652bd87417565d4ed1e5101375d047e512943eac5a73"
 metafile = true
@@ -445,11 +439,6 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
-metafile = true
-
-[[files]]
-file = "mods/make_bubbles_pop.pw.toml"
-hash = "a348cac6a82b65dd907d857f1893fb44d724cd3d912975fb7325253eb7e7503a"
 metafile = true
 
 [[files]]
@@ -543,11 +532,6 @@ hash = "856d0d1f22c22809bbb904ffa66a5d835914eae9c36874bd1bce488d018c05c0"
 metafile = true
 
 [[files]]
-file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
-metafile = true
-
-[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "2138a812408929d94c6753da38bea38e3be42f6891ee5a1c9a092de4ad1080de"
 metafile = true
@@ -573,13 +557,13 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
-file = "mods/vistas.pw.toml"
-hash = "608d4422fbab99e5e10c6f32ff0a462fafc0b2e6e9c122b3f3776c556bfcb40a"
+file = "mods/terralith.pw.toml"
+hash = "7d8109543303c680aa1d4d5d4e81548ec602f910ca2e9a32133a07c0dc3c2df7"
 metafile = true
 
 [[files]]
-file = "mods/visuality.pw.toml"
-hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
+file = "mods/vistas.pw.toml"
+hash = "608d4422fbab99e5e10c6f32ff0a462fafc0b2e6e9c122b3f3776c556bfcb40a"
 metafile = true
 
 [[files]]
@@ -619,7 +603,7 @@ file = "resourcepacks/pollocraft.zip"
 hash = "6651a1dc157c445ed7266ff863b86dd4ec55a020c41e80f1133e40f8135b6ff2"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.7.1.zip.txt"
 hash = "b5b710827d05726a6f8297ee5a1293147006ef56e9d61edcd6910fa2b774e012"
 
 [[files]]
