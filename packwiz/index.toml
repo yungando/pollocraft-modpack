@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "b17598cf23a8dab82ef54e5a1d4a8b3af206b2e3d8535d6bd199fa5d32b916d0"
+
+[[files]]
 file = "config/armorchroma.json"
 hash = "2185170701a680da0ba39c84121ced4f5990cf06f9d79b36f0b7ad1e48f386da"
 
@@ -56,7 +60,7 @@ hash = "251a52ba59008fe14268bf32af1100629f1f054236c8662d831092aa25a3b9e6"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "b738b62d82abeb1108a345a92dc6884b1acc7c5844ed8007965ce03c82ff9e66"
+hash = "2a29655cc8ca7470714e32cf6f7416f92777d41f822d4593d037046222a21d55"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -75,7 +79,7 @@ preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "93afc38389e326fffc848d29e7a86d8585fef5cc2459eaf2c332395170f9a7d6"
+hash = "6a23c928733173886265e320972b3ca995b133e5c9ad0f21a6232aa82684d2d8"
 preserve = true
 
 [[files]]
@@ -600,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
-hash = "24c38bdf16b229a021915c88ba544d2f91a0f4cf144e5a464b492c55e74e7a9d"
+hash = "f0f6d7422bfd2737dfff0a43218f6ff73a7aadf83aac9fd83fbadde564dffb6d"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
@@ -608,7 +612,7 @@ hash = "f96e64d6fd063c44bd97cf51483dba582acbf14f0c702628c1f10937846b7319"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
-hash = "68e48a7da0d1d9463c46e06cf04d28d76333474642dcfacc8caf5d57294821ee"
+hash = "64115dc8e80db6638ac52beb0385f053a0f54a991c2a4b789dd4769531b2353e"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
