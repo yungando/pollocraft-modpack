@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/drp-global-datapack.pw.toml"
-hash = "e399872a6ff3b9717d128433a2f525a7d4ea320921c6c3de8fbdb87ce02d0008"
+hash = "a04551f0be15f759309da835317d4680c4b46e8ad93900b902490ac5cfdcb4ce"
 metafile = true
 
 [[files]]
@@ -364,7 +364,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "9cd2cc64c0c2fba031cfc28e8b346a77dcf9aa4c2a33462bff37488edc394a68"
+hash = "ca9a7c2cf85d33a348227cc025b6edc1341bc846f2005ee87d626763112b9eec"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -404,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinity-and-mending.pw.toml"
-hash = "2e1bc389569dcfa3f4c0c95fe918eb298278b08fc7f6dc01304dd13111f37aa4"
+hash = "15104a9eb8f0c426d79a2244bd912d6312132d10cf033999237d636c9d04d56f"
 metafile = true
 
 [[files]]
@@ -494,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/new-infinity-fix.pw.toml"
-hash = "d17a58ebd14f48d6cd5cb75702f1aed1b9214f1a398f3f19aeeae2c89b4f0777"
+hash = "2de1571e8117f43e16f888c6ef3a22451b1cf9170779bf458b57faabfbac4128"
 metafile = true
 
 [[files]]
@@ -510,16 +520,6 @@ metafile = true
 [[files]]
 file = "mods/plymouth-anti-xray.pw.toml"
 hash = "26bc28977faf6e48cbdf1aafcc9f3b15224c82a8067b92313ce1954f8625242b"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]

@@ -37,15 +37,15 @@
             "version": "1.19.2"
         },
         {
-            "cachedName": "Quilt Loader",
+            "cachedName": "Fabric Loader",
             "cachedRequires": [
                 {
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "cachedVersion": "0.18.10",
-            "uid": "org.quiltmc.quilt-loader",
-            "version": "0.18.10"
+            "cachedVersion": "0.14.19",
+            "uid": "net.fabricmc.fabric-loader",
+            "version": "0.14.19"
         }
     ],
     "formatVersion": 1

@@ -1,13 +1,13 @@
 name = "pollocraft"
 author = "yungando"
-version = "1.0.0"
+version = "5.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d7b14591b976a6a6dde1365b0d0bc39adce356a54a8bd7475ccd9adc03f7c3f3"
+hash = "84f798cd56936d8a50e6be0fbff4d077c762b4b7a92fa48e17b14329cc9daa44"
 
 [versions]
+fabric = "0.14.19"
 minecraft = "1.19.2"
-quilt = "0.18.10"
