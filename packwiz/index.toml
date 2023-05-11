@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/capes.json5"
-hash = "57d23248e0b3d4578d9ef13f5d966f8b14d86dff3187c91da801ba9252ed7d6c"
+file = "config/armorchroma.json"
+hash = "2185170701a680da0ba39c84121ced4f5990cf06f9d79b36f0b7ad1e48f386da"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -17,21 +17,25 @@ file = "config/customwindowtitle/icon32.png"
 hash = "a7e624d73b9a39f7bf08973e98f455ee22fac90f4c05e9738cf9b8bb9b0e34f1"
 
 [[files]]
-file = "config/entity_texture_features.json"
-hash = "26c6315f284dd1844c4045f4d48f4e3c13dc0eabc228f3a08550045bf8f83195"
+file = "config/dark-loading-screen.json"
+hash = "34f1a2d445f6d133a5b5f65df1b17c4b175c874020ba95f7d971e61a8cfd68f2"
+
+[[files]]
+file = "config/fastquit-config.txt"
+hash = "51737ea18619d5d6f55a8c7aff5ac0375ab8387a68698baa650d4732c8e38df6"
 
 [[files]]
 file = "config/grass_kiss.json"
-hash = "e82f450b366329ce70adf6ab355e557ba44ddff4b8673667f36db871e4780075"
+hash = "9439f8254146932503037a2e0f82cdbc48a1e9a796ce900e98ee3068b8ec3de6"
 
 [[files]]
 file = "config/iris.properties"
-hash = "2657bedc645ca4a8df8f60d2f6fae2ad73d14f58b35b534ee5092fdf4dff603b"
+hash = "914ce60745bbe444b7f211bdc1975fb0d52563369492bf65023f66d66f60221f"
 preserve = true
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b40a1923790ef34d505f19bf9f454f4b281584f4aa2cad433c75ac5d67b3f52d"
+hash = "f7b6a500be57ffa0fc17ce4f97f8495bd1c81214c99348ec8dca0815bf2e2640"
 
 [[files]]
 file = "config/lightoverlay.properties"
@@ -43,40 +47,35 @@ hash = "bf0625692659331c95874a9e644aecf2cac45ea27ba69005e692f2717b5f9947"
 
 [[files]]
 file = "config/minihud.json"
-hash = "33f233d9796e7e1eb69421bfad36abf6517457861e06b61c4f05ff970ca7f223"
+hash = "82e425a9586dce5f7ddc7797ba73f85fb8a2322700743357651b02ab3711f344"
 preserve = true
 
 [[files]]
 file = "config/minimalmenu.json"
-hash = "5466b98d792dff77595d55e42774aab48792819ffe279cf6f8db160c3af5c83c"
+hash = "251a52ba59008fe14268bf32af1100629f1f054236c8662d831092aa25a3b9e6"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "e419bf2e8888c00e35a333f35aba352f90fb969029c9a4e4e8fd961fc044dc33"
+hash = "b738b62d82abeb1108a345a92dc6884b1acc7c5844ed8007965ce03c82ff9e66"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "aa0e5edbd30878406fe1ca29e574d51f6d6e2f82e798882f220922bb4ff903d2"
+hash = "31797782d867afa0eae5766cc4d5b5019f0054bd8d513331b2c13606a8933af3"
 preserve = true
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "605f4b386ec67d081c138cc449b9d09a99d721a3b45b2389d2fff66e7f21e536"
+hash = "8f54a898831dd20213f130aeab2339104578d94fb9b6c923f9fb27aae8825dd4"
 preserve = true
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "91e3c90bba7927b7983b9be90f23ff7ed2ffa5b704603a829c6835645bcbdd7a"
-preserve = true
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "e9e735f32896bc0810539678317e32fab2c3274eb435a40af4c7ca7ff612f027"
+hash = "ec93565be12fd62f4b9f23d9c2c706968cedc56b022b484918a5dce2d62b569c"
 preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c31eb18fa30e9facbc9967d6d9d720f09464a8c9b826ca7df665ca8b6b50924a"
+hash = "93afc38389e326fffc848d29e7a86d8585fef5cc2459eaf2c332395170f9a7d6"
 preserve = true
 
 [[files]]
@@ -169,7 +168,7 @@ hash = "d6ad1f39a762c791b196d50cafa7d1bee1d49e0344d4bfe44291fd3dfb4ec3fd"
 
 [[files]]
 file = "global_packs/required_data/netherite_shell_ando.zip"
-hash = "c4e3bc2ad56f514f25a9fe4b8de2db913e88543002f5bf2519ff01afc3c38a07"
+hash = "8c894a56321a836aa52ba743ffd0cc25fb7c9cfc75f7e5ca95bd18282ae0112d"
 
 [[files]]
 file = "global_packs/required_data/player head drops v1.1.3.zip"
@@ -186,6 +185,10 @@ hash = "1c11aa8f0f660361214647a76416da287ca39dfaec4957a2a99f71888623ed98"
 [[files]]
 file = "global_packs/required_data/unlock all recipes v2.0.4.zip"
 hash = "be6068496842635e17cdf173e62c1733ce7ebd55a28f7dd7dd07aa2be400e810"
+
+[[files]]
+file = "mods/HideNBT.jar"
+hash = "6c42b386cbe79ae8a37ab32e66a9e352de253906ca7000c1bc822a187f643b7a"
 
 [[files]]
 file = "mods/XaerosWorldMap.jar"
@@ -251,6 +254,11 @@ hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
 metafile = true
 
 [[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "a3326c6be394dd05dc7758f6187a4e2ddd416fd47b387ea40eef180c65b5ea7e"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
@@ -258,11 +266,6 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "208b6e7574b7a5fee941b90257e34cb6a4ddbb162ee16ff475d030e39fd5e042"
-metafile = true
-
-[[files]]
-file = "mods/chatpatches.pw.toml"
-hash = "15590379221e4b4d9d1ce045a7e01585aca9a4217c322cc0e072dd196b633e47"
 metafile = true
 
 [[files]]
@@ -491,6 +494,11 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
 file = "mods/plymouth-anti-xray.pw.toml"
 hash = "26bc28977faf6e48cbdf1aafcc9f3b15224c82a8067b92313ce1954f8625242b"
 metafile = true
@@ -538,11 +546,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "06e8d589fbff47c4724c1c0e59b73ca1e87d65e75e7ea7c77bfee11fa3d8c7aa"
-metafile = true
-
-[[files]]
-file = "mods/simple-durability-tooltip.pw.toml"
-hash = "36c5793fe006b94902672303fba4a074c73f5fce4f6704d27e8fcaf2f08171de"
 metafile = true
 
 [[files]]
@@ -596,7 +599,7 @@ hash = "24c38bdf16b229a021915c88ba544d2f91a0f4cf144e5a464b492c55e74e7a9d"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "3d714a75eece086a9c3027b06036ce04714f33ae9d5ecfd42013440352eed07f"
+hash = "f96e64d6fd063c44bd97cf51483dba582acbf14f0c702628c1f10937846b7319"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
@@ -604,16 +607,11 @@ hash = "68e48a7da0d1d9463c46e06cf04d28d76333474642dcfacc8caf5d57294821ee"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "700f3c78db53897b22f432045da781ab8813166be3f800fc6cea5d9964fd2dee"
+hash = "6651a1dc157c445ed7266ff863b86dd4ec55a020c41e80f1133e40f8135b6ff2"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
-hash = "0f1714a764efd19211b9888400b805b12330f4d871692ef46a1c8901191e59b3"
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "6610547224f85161e6ba49aaadfe882e058f2d3851dcef3b77ae9df1314f3dae"
-metafile = true
+hash = "b5b710827d05726a6f8297ee5a1293147006ef56e9d61edcd6910fa2b774e012"
 
 [[files]]
 file = "shaderpacks/complementary-shaders-v4.pw.toml"

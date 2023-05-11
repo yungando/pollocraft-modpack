@@ -1,10 +1,1 @@
-{
-  "quality": {
-    "weather_quality": "FANCY",
-    "leaves_quality": "FANCY",
-    "enable_vignette": false
-  },
-  "notifications": {
-    "hide_donation_button": true
-  }
-}
+{"quality":{"weather_quality":"FANCY","leaves_quality":"FANCY","enable_vignette":false},"notifications":{"hide_donation_button":true}}
