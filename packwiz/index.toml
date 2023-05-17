@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "b17598cf23a8dab82ef54e5a1d4a8b3af206b2e3d8535d6bd199fa5d32b916d0"
-
-[[files]]
-file = "config/armorchroma.json"
-hash = "2185170701a680da0ba39c84121ced4f5990cf06f9d79b36f0b7ad1e48f386da"
-
-[[files]]
 file = "config/customwindowtitle-client.toml"
 hash = "99dad4db591e67b837f3510e3e610f75af08e2b80296196d68d2ddbba6146944"
 
@@ -21,61 +13,64 @@ file = "config/customwindowtitle/icon32.png"
 hash = "a7e624d73b9a39f7bf08973e98f455ee22fac90f4c05e9738cf9b8bb9b0e34f1"
 
 [[files]]
-file = "config/dark-loading-screen.json"
-hash = "34f1a2d445f6d133a5b5f65df1b17c4b175c874020ba95f7d971e61a8cfd68f2"
-
-[[files]]
-file = "config/fastquit-config.txt"
-hash = "51737ea18619d5d6f55a8c7aff5ac0375ab8387a68698baa650d4732c8e38df6"
-
-[[files]]
 file = "config/grass_kiss.json"
 hash = "9439f8254146932503037a2e0f82cdbc48a1e9a796ce900e98ee3068b8ec3de6"
-
-[[files]]
-file = "config/iris.properties"
-hash = "914ce60745bbe444b7f211bdc1975fb0d52563369492bf65023f66d66f60221f"
-preserve = true
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "f7b6a500be57ffa0fc17ce4f97f8495bd1c81214c99348ec8dca0815bf2e2640"
 
 [[files]]
-file = "config/lightoverlay.properties"
-hash = "94e395e58bd9777c6244a3b443b729df9e51a12d14fc9b4fdb7393bc233f9c2a"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "bf0625692659331c95874a9e644aecf2cac45ea27ba69005e692f2717b5f9947"
 
 [[files]]
-file = "config/minihud.json"
-hash = "4b53eea088523107feec427f95b80a2c0c97f137ddd2f24aadd2541ee6eb6908"
-preserve = true
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "b17598cf23a8dab82ef54e5a1d4a8b3af206b2e3d8535d6bd199fa5d32b916d0"
 
 [[files]]
-file = "config/minimalmenu.json"
+file = "config/yosbr/config/armorchroma.json"
+hash = "2185170701a680da0ba39c84121ced4f5990cf06f9d79b36f0b7ad1e48f386da"
+
+[[files]]
+file = "config/yosbr/config/dark-loading-screen.json"
+hash = "34f1a2d445f6d133a5b5f65df1b17c4b175c874020ba95f7d971e61a8cfd68f2"
+
+[[files]]
+file = "config/yosbr/config/fastquit-config.txt"
+hash = "51737ea18619d5d6f55a8c7aff5ac0375ab8387a68698baa650d4732c8e38df6"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "914ce60745bbe444b7f211bdc1975fb0d52563369492bf65023f66d66f60221f"
+
+[[files]]
+file = "config/yosbr/config/lightoverlay.properties"
+hash = "94e395e58bd9777c6244a3b443b729df9e51a12d14fc9b4fdb7393bc233f9c2a"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "4b53eea088523107feec427f95b80a2c0c97f137ddd2f24aadd2541ee6eb6908"
+
+[[files]]
+file = "config/yosbr/config/minimalmenu.json"
 hash = "251a52ba59008fe14268bf32af1100629f1f054236c8662d831092aa25a3b9e6"
 
 [[files]]
-file = "config/modmenu.json"
+file = "config/yosbr/config/modmenu.json"
 hash = "2a29655cc8ca7470714e32cf6f7416f92777d41f822d4593d037046222a21d55"
 
 [[files]]
-file = "config/roughlyenoughitems/config.json5"
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "31797782d867afa0eae5766cc4d5b5019f0054bd8d513331b2c13606a8933af3"
-preserve = true
 
 [[files]]
-file = "config/sodium-extra-options.json"
+file = "config/yosbr/config/sodium-extra-options.json"
 hash = "8f54a898831dd20213f130aeab2339104578d94fb9b6c923f9fb27aae8825dd4"
-preserve = true
 
 [[files]]
-file = "config/sodium-options.json"
+file = "config/yosbr/config/sodium-options.json"
 hash = "ec93565be12fd62f4b9f23d9c2c706968cedc56b022b484918a5dce2d62b569c"
-preserve = true
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -596,7 +591,7 @@ hash = "f96e64d6fd063c44bd97cf51483dba582acbf14f0c702628c1f10937846b7319"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
-hash = "64115dc8e80db6638ac52beb0385f053a0f54a991c2a4b789dd4769531b2353e"
+hash = "da0a3803105649284917428f797bf3c3bf1d444bb2f5d228244d58e094df7490"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
