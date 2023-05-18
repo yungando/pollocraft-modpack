@@ -25,10 +25,6 @@ file = "config/lithium.properties"
 hash = "bf0625692659331c95874a9e644aecf2cac45ea27ba69005e692f2717b5f9947"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "b17598cf23a8dab82ef54e5a1d4a8b3af206b2e3d8535d6bd199fa5d32b916d0"
-
-[[files]]
 file = "config/yosbr/config/armorchroma.json"
 hash = "2185170701a680da0ba39c84121ced4f5990cf06f9d79b36f0b7ad1e48f386da"
 
@@ -74,120 +70,8 @@ hash = "ec93565be12fd62f4b9f23d9c2c706968cedc56b022b484918a5dce2d62b569c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7b351d2da2eac050987ea8375e81a233842ecdae5a13e7435fc546f73d9de35a"
+hash = "0786a0a788cc527ac9ec517abd54b2609627265eca8d261f2b648e1f740996f0"
 preserve = true
-
-[[files]]
-file = "global_packs/required_data/Blasted_Ore_Blocks_1.1.1.zip"
-hash = "00fd4f3889f1133195ba0a2fbc30e1c29bfee44aaa1e087665546b65d37dd2a2"
-
-[[files]]
-file = "global_packs/required_data/Botanical_Replication_1.5.1.zip"
-hash = "fc2a4fa6b97a71ec3b505c8f37c8fe215d478b7f6f1e14ac20996fc718f2e512"
-
-[[files]]
-file = "global_packs/required_data/Chicken_Shedding_1.4.1.zip"
-hash = "8efdb3d409ab1051cbf0016f8117588c24fb81c16bbd2be8c4f36df20e2eadc3"
-
-[[files]]
-file = "global_packs/required_data/Copper_Beacons_1.1.1.zip"
-hash = "3ab42b166b30e629aa6fc95928b495f25bea24f440c82f17fe3b19abae7a7da2"
-
-[[files]]
-file = "global_packs/required_data/Crafting Tweaks.zip"
-hash = "016ce8551b2e176e32378be273fe13bc380f4759e5674ac49fff41d88aee5d46"
-
-[[files]]
-file = "global_packs/required_data/Further_Fermentation_1.4.1.zip"
-hash = "0b845417fc1e10d79006d8a56a81a5d1af0e2c5bf67407458901136082abc0a7"
-
-[[files]]
-file = "global_packs/required_data/Remove_Terralith_Intro_Message_v1.0.zip"
-hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
-
-[[files]]
-file = "global_packs/required_data/Server_Friendly_Wither_1.4.1.zip"
-hash = "1acae0e610b272fe2a16112fb22e7020b0db2dacc38fe6745d019a5f22725dbf"
-
-[[files]]
-file = "global_packs/required_data/Trader_Notify_1.4.1.zip"
-hash = "1e9c7f531e23a36daddf2c17baaeae92ea70c90e2fbafa1be635a2d291f5f0c8"
-
-[[files]]
-file = "global_packs/required_data/Tridents_o_Plenty_1.5.1.zip"
-hash = "6f02cfe1210311cbc179d2b284a31f5f3dff63add4b722fa2ddf4a6fc779c7cc"
-
-[[files]]
-file = "global_packs/required_data/Weakened_Bedrock_1.4.1.zip"
-hash = "17e723aa27ff95844425396fe2e016148b92fb37e271ac3cc185a247c0541fb4"
-
-[[files]]
-file = "global_packs/required_data/anti enderman grief v1.1.3.zip"
-hash = "f332b52170caf410518e65c0f4f10377fe1446e7e705e9dfec6842109b3c866d"
-
-[[files]]
-file = "global_packs/required_data/armor-arms-1571597206.zip"
-hash = "9ddfc76a2c9f3bbbc46ea305e414661013cdaa34f80cb6293c16938c7a61ebf4"
-
-[[files]]
-file = "global_packs/required_data/armored elytra v1.0.6.zip"
-hash = "6abb1395894ad63110823f220cff4b293d0fe7faff1859816acfd127f6c47872"
-
-[[files]]
-file = "global_packs/required_data/bat membranes v1.0.4.zip"
-hash = "b04b04302efcf13c9308d837c8aeaeddc90bfbc5385a4cba593ba3092de1cc03"
-
-[[files]]
-file = "global_packs/required_data/cauldron concrete v2.0.6.zip"
-hash = "8626c29fab3383b80a869074dfe1a24591854fdb780873e2b4d326c27f674260"
-
-[[files]]
-file = "global_packs/required_data/confetti creepers v2.2.3.zip"
-hash = "17db956e236bb5506e334716d53f78650772fb180bd035362e2661ba91db73be"
-
-[[files]]
-file = "global_packs/required_data/double shulker shells v1.3.3.zip"
-hash = "232c65d74a3ee5c38b76ad8a7be4f3e3e54f61d1086f3794a46c155a03417331"
-
-[[files]]
-file = "global_packs/required_data/dragon drops v1.3.3.zip"
-hash = "f7fb04be3a2f7c690d58d56348576145dbedc347e4bae9b9b49f9357ca1ed412"
-
-[[files]]
-file = "global_packs/required_data/graves v2.8.7.zip"
-hash = "b571591fa0d8c42a231616448c83d1a5bd5645ff875739f9b771a7a2cb9a2cbf"
-
-[[files]]
-file = "global_packs/required_data/hoglins_hate_overworld_ando.zip"
-hash = "92dd77f58cb21013aa124e183b0f76a7642d453400fa8ce679d24165385f8032"
-
-[[files]]
-file = "global_packs/required_data/multiplayer sleep v2.6.3 ando.zip"
-hash = "e838123070893592b5765ec05f81a78995474d9cf13675f072dd22572a403e85"
-
-[[files]]
-file = "global_packs/required_data/name colors v1.0.1.zip"
-hash = "d6ad1f39a762c791b196d50cafa7d1bee1d49e0344d4bfe44291fd3dfb4ec3fd"
-
-[[files]]
-file = "global_packs/required_data/netherite_shell_ando.zip"
-hash = "8c894a56321a836aa52ba743ffd0cc25fb7c9cfc75f7e5ca95bd18282ae0112d"
-
-[[files]]
-file = "global_packs/required_data/player head drops v1.1.3.zip"
-hash = "bc73396ab84a8f0bb6897ed679efddeee23360f1bbafa4bd7121ce0e4fc542d4"
-
-[[files]]
-file = "global_packs/required_data/track raw statistics v1.5.3.zip"
-hash = "7f3e526f97806c2997c4b864a0049353753db10ae64609c697db60741149e6e4"
-
-[[files]]
-file = "global_packs/required_data/track statistics v1.1.4.zip"
-hash = "1c11aa8f0f660361214647a76416da287ca39dfaec4957a2a99f71888623ed98"
-
-[[files]]
-file = "global_packs/required_data/unlock all recipes v2.0.4.zip"
-hash = "be6068496842635e17cdf173e62c1733ce7ebd55a28f7dd7dd07aa2be400e810"
 
 [[files]]
 file = "mods/XaerosWorldMap.jar"
@@ -211,15 +95,6 @@ metafile = true
 [[files]]
 file = "mods/armor-chroma-for-fabric.pw.toml"
 hash = "d7b730ba9af222aae704a34891f41497d72620ab75da092714fc4f186d230bcf"
-metafile = true
-
-[[files]]
-file = "mods/armor-stand-swap-1.0.2.jar"
-hash = "dca3d4a2206099fa530888de2a8fdb413bbfdf21301a29553c2727f6be29cf91"
-
-[[files]]
-file = "mods/armored-elytra.pw.toml"
-hash = "b46af2de1693fcaf892fd6dd1734915a9a36549093144b724e940cce5936e17c"
 metafile = true
 
 [[files]]
@@ -258,11 +133,6 @@ hash = "208b6e7574b7a5fee941b90257e34cb6a4ddbb162ee16ff475d030e39fd5e042"
 metafile = true
 
 [[files]]
-file = "mods/ciif.pw.toml"
-hash = "251a0406bdb6ae3836d03bbb6625e657911cb871a636417fec8daaae5c5ef088"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
@@ -283,33 +153,13 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
-file = "mods/collective.pw.toml"
-hash = "2a978d8c0b447bb64aac579206b9ca85eb721a431d8af736d60633fabee22bb4"
-metafile = true
-
-[[files]]
-file = "mods/continents.pw.toml"
-hash = "df7ced20708a6908375f8324b6c3fd60834f2a1926beda8f0a82b4c90ed44af3"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
-file = "mods/crops-love-rain.pw.toml"
-hash = "e6ce78af13cd662ab6dedf5c67d8b9d9210b66242593cf1be08f45ed935d4af7"
-metafile = true
-
-[[files]]
 file = "mods/custom-window-title.toml"
 hash = "6670c459d79e48e809d6f3b7fb4e494e71c8ce7d63b9c522d46702467d272748"
-metafile = true
-
-[[files]]
-file = "mods/cycle-paintings.pw.toml"
-hash = "d534926f442e45db8010ea2c19efb8d544842e2dc2518a47f8d863ef5ee351c8"
 metafile = true
 
 [[files]]
@@ -320,16 +170,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
-metafile = true
-
-[[files]]
-file = "mods/deepslatecutting.pw.toml"
-hash = "0479206225a4fe784aa2866d422a0f9bad857a8c1ade89179d6626f812c4fbb8"
-metafile = true
-
-[[files]]
-file = "mods/drp-global-datapack.pw.toml"
-hash = "a04551f0be15f759309da835317d4680c4b46e8ad93900b902490ac5cfdcb4ce"
 metafile = true
 
 [[files]]
@@ -373,11 +213,6 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
-file = "mods/freecam.pw.toml"
-hash = "efcc25b88be11ae20eb1deefd9cdf49e26a08f4d18cc9b0bbb6b172b404e5ff3"
-metafile = true
-
-[[files]]
 file = "mods/grass-kiss.pw.toml"
 hash = "85d7e2120286264565ce652bd87417565d4ed1e5101375d047e512943eac5a73"
 metafile = true
@@ -402,11 +237,6 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
-file = "mods/infinity-and-mending.pw.toml"
-hash = "15104a9eb8f0c426d79a2244bd912d6312132d10cf033999237d636c9d04d56f"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
 metafile = true
@@ -414,11 +244,6 @@ metafile = true
 [[files]]
 file = "mods/lava-clear-view-fabric.pw.toml"
 hash = "649a44643b593d49c91ead5d89a1d0f90698e1ca87fa262b95ef52053e189e66"
-metafile = true
-
-[[files]]
-file = "mods/leaves-us-in-peace.pw.toml"
-hash = "1f1435768beb36acf48e3a0f385a4423f2ee3d43ef42d7de138bd3a39b2559a2"
 metafile = true
 
 [[files]]
@@ -482,28 +307,13 @@ hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
 metafile = true
 
 [[files]]
-file = "mods/nbt-crafting.pw.toml"
-hash = "092562cce93b133cdd4f9a0004a104914fd9f639941fb4c2401054fac0124f15"
-metafile = true
-
-[[files]]
-file = "mods/new-infinity-fix.pw.toml"
-hash = "2de1571e8117f43e16f888c6ef3a22451b1cf9170779bf458b57faabfbac4128"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
-file = "mods/plymouth-anti-xray.pw.toml"
-hash = "26bc28977faf6e48cbdf1aafcc9f3b15224c82a8067b92313ce1954f8625242b"
+file = "mods/origins-enhanced.pw.toml"
+hash = "83eecd0577e1b709c8eeb1986454a16fce911e5f3dcc3a4c8d65636f7ea63f0b"
 metafile = true
 
 [[files]]
@@ -519,16 +329,6 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
-metafile = true
-
-[[files]]
-file = "mods/scaffolding-drops-nearby.pw.toml"
-hash = "856d0d1f22c22809bbb904ffa66a5d835914eae9c36874bd1bce488d018c05c0"
-metafile = true
-
-[[files]]
-file = "mods/show-me-what-you-got.pw.toml"
-hash = "2138a812408929d94c6753da38bea38e3be42f6891ee5a1c9a092de4ad1080de"
 metafile = true
 
 [[files]]
@@ -549,11 +349,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "7d8109543303c680aa1d4d5d4e81548ec602f910ca2e9a32133a07c0dc3c2df7"
 metafile = true
 
 [[files]]
@@ -586,7 +381,7 @@ hash = "f96e64d6fd063c44bd97cf51483dba582acbf14f0c702628c1f10937846b7319"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "ea3a0817faaf0dfa1c09254351ce4b589e1cc2d359dadf10838ac060f8362367"
+hash = "ed4d534c33b2d7eb2499cfa2483aee76aab1e6043d116b279f2fc004947338df"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.7.1.zip.txt"
