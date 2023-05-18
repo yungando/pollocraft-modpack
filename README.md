@@ -21,6 +21,6 @@ And if this sounds like too much work:
 
 1 - Download and run the [MultiMC Launcher](https://multimc.org).
 
-2 - Download [pollocraft.zip](https://github.com/yungando/pollocraft/raw/main/MultiMC/pollocraft.zip) and drag it into the MultiMC window.
+2 - Download [pollocraft.zip](https://github.com/yungando/pollocraft/raw/lite/MultiMC/pollocraft-lite.zip) and drag it into the MultiMC window.
 
 3 - MultiMC will check for updates whenever you launch the "pollocraft" instance.
