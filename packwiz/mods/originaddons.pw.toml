@@ -1,0 +1,13 @@
+name = "OriginAddons"
+filename = "originaddons-1.0.1-UNIVERSAL.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ECVMthxr/versions/VBtDrGt0/originaddons-1.0.1-UNIVERSAL.jar"
+hash-format = "sha1"
+hash = "95e9e23f2e2c595fbc90d73ee072c5f45804ed73"
+
+[update]
+[update.modrinth]
+mod-id = "ECVMthxr"
+version = "VBtDrGt0"
