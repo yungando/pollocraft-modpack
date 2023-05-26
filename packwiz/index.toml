@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-anvil.pw.toml"
-hash = "3fb2f14f5f4348174aaf2c658898ba4046d19075571fd7d040404a8538dd34b4"
+hash = "39879d1fe072b3ab80cffb44f633386314d40ea2dd81d3226abb6a6f01426622"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ hash = "f0f6d7422bfd2737dfff0a43218f6ff73a7aadf83aac9fd83fbadde564dffb6d"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "f96e64d6fd063c44bd97cf51483dba582acbf14f0c702628c1f10937846b7319"
+hash = "4808c8c7ae2455b43fb7571995bfd0b70a1c5dc9518e3c96ef787e0961e23960"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
