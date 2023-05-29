@@ -69,6 +69,10 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "ec93565be12fd62f4b9f23d9c2c706968cedc56b022b484918a5dce2d62b569c"
 
 [[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "815a37f7230f71be0f653a387ae096e474b8a713e4fd421bdff42a75591f7b67"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "0786a0a788cc527ac9ec517abd54b2609627265eca8d261f2b648e1f740996f0"
 preserve = true
@@ -89,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
+hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
@@ -180,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "92f796bb39c6235298ccf33b64505923870bc3a258cbb2114d0ec036bfe18b6d"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "290d36293a86ebdf7aec0ea84aa975eaccd7d7878b32d06fe1e0a0376d5441a5"
 metafile = true
 
 [[files]]
@@ -338,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
+hash = "64ebf1e1a2e308e56caa85a3b1a43e3385c4f0433b67a3c825c39bd8941b9ae0"
 metafile = true
 
 [[files]]
@@ -387,7 +396,7 @@ hash = "f0f6d7422bfd2737dfff0a43218f6ff73a7aadf83aac9fd83fbadde564dffb6d"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "4808c8c7ae2455b43fb7571995bfd0b70a1c5dc9518e3c96ef787e0961e23960"
+hash = "7d2edb73b448dc5812d875f87a3e5eb60f9bfeda0abc388a3f02d2d26499b694"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
