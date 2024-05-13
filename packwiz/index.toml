@@ -37,6 +37,10 @@ file = "config/yosbr/config/dark-loading-screen.json"
 hash = "34f1a2d445f6d133a5b5f65df1b17c4b175c874020ba95f7d971e61a8cfd68f2"
 
 [[files]]
+file = "config/yosbr/config/emi.css"
+hash = "c4a75babc19c5e97a1b18fcc59de24d78cd77625708b171294939a6c633c6b81"
+
+[[files]]
 file = "config/yosbr/config/fastquit-config.txt"
 hash = "51737ea18619d5d6f55a8c7aff5ac0375ab8387a68698baa650d4732c8e38df6"
 
@@ -65,10 +69,6 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "b9196e07b7b1a7239992b737b50ea35a337c87d1828a20d5f23300b18050f37c"
 
 [[files]]
-file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "31797782d867afa0eae5766cc4d5b5019f0054bd8d513331b2c13606a8933af3"
-
-[[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
 hash = "6684f17b604a9f65aba53ea9dc57ed570f55d77536fe1ae456831d81f1ff947e"
 
@@ -90,7 +90,7 @@ hash = "b1f36e5fb957492f432c110063ce32ffb75cdecdc6e16accf08d4d27cad30642"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d44981c01d8fa3b4b33e69abe8ee3d9493355968af8ca89ee2dbbd21e410c1f6"
+hash = "55ec63ecc8b7cf6204ef6d3338fbe22a6494fcb8817fe7f2a90c5b4a0b2589c9"
 preserve = true
 
 [[files]]
@@ -433,7 +433,7 @@ hash = "f0f6d7422bfd2737dfff0a43218f6ff73a7aadf83aac9fd83fbadde564dffb6d"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "7d2edb73b448dc5812d875f87a3e5eb60f9bfeda0abc388a3f02d2d26499b694"
+hash = "6d650f99cc7ba0fc61d65da843d2e2b1ad96ba8cc7219c644e4b4092c75c2041"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
