@@ -1,0 +1,13 @@
+name = "Italica"
+filename = "italica-1.0.0 - 1.19.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b6689f9f850500054ac0273da77e39563f4d0b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4099554
+project-id = 539731

@@ -3,7 +3,7 @@ autoJump:false
 snooperEnabled:false
 fov:0.5
 screenEffectScale:0.5
-fovEffectScale:0.70710677
+fovEffectScale:0.7
 renderDistance:32
 simulationDistance:12
 entityDistanceScaling:1.0
@@ -11,7 +11,7 @@ guiScale:2
 maxFps:260
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","armorchroma/alternative-icons","minecraft/supporteatinganimation","file/VanillaTweaks.zip","file/andos-pack.zip","file/pollocraft.zip","Fabric Mods"]
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","minecraft/supporteatinganimation","armorchroma/alternative-icons","file/VanillaTweaks.zip","file/andos-pack.zip","file/pollocraft.zip"]
 incompatibleResourcePacks:["armorchroma/alternative-icons"]
 advancedItemTooltips:true
 tutorialStep:none

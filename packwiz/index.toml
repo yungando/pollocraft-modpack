@@ -29,6 +29,10 @@ file = "config/yosbr/config/armorchroma.json"
 hash = "2185170701a680da0ba39c84121ced4f5990cf06f9d79b36f0b7ad1e48f386da"
 
 [[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "e5d8eefc499b422724bc6435762e4ccec7d4f7827360a516e37e8bf9f71aac46"
+
+[[files]]
 file = "config/yosbr/config/dark-loading-screen.json"
 hash = "34f1a2d445f6d133a5b5f65df1b17c4b175c874020ba95f7d971e61a8cfd68f2"
 
@@ -57,8 +61,16 @@ file = "config/yosbr/config/modmenu.json"
 hash = "2a29655cc8ca7470714e32cf6f7416f92777d41f822d4593d037046222a21d55"
 
 [[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "b9196e07b7b1a7239992b737b50ea35a337c87d1828a20d5f23300b18050f37c"
+
+[[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "31797782d867afa0eae5766cc4d5b5019f0054bd8d513331b2c13606a8933af3"
+
+[[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "6684f17b604a9f65aba53ea9dc57ed570f55d77536fe1ae456831d81f1ff947e"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -70,16 +82,16 @@ hash = "ec93565be12fd62f4b9f23d9c2c706968cedc56b022b484918a5dce2d62b569c"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "815a37f7230f71be0f653a387ae096e474b8a713e4fd421bdff42a75591f7b67"
+hash = "ca0a69bd64d0f021ad53df9ab9a3ca59546ee9001ad7f488d1712005b3bdd860"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "b1f36e5fb957492f432c110063ce32ffb75cdecdc6e16accf08d4d27cad30642"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0786a0a788cc527ac9ec517abd54b2609627265eca8d261f2b648e1f740996f0"
+hash = "d44981c01d8fa3b4b33e69abe8ee3d9493355968af8ca89ee2dbbd21e410c1f6"
 preserve = true
-
-[[files]]
-file = "mods/XaerosWorldMap.jar"
-hash = "18014b20bc9ed68c85cfcfb56e7c741d2725dd7468c490fd26ccf990c61c4c81"
 
 [[files]]
 file = "mods/advancements-enlarger.pw.toml"
@@ -114,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/better-resource-pack-sorting.pw.toml"
 hash = "8b6a4792d4395eecc90cbdf095a694f503248ac99915e9deb8d6d64f5e6236a1"
+metafile = true
+
+[[files]]
+file = "mods/biome-moss.pw.toml"
+hash = "2c3d10c60cc6234e6d9544f4435a635f2bb8b7da1561d1b4cd9a3645e7ed40ca"
 metafile = true
 
 [[files]]
@@ -178,12 +195,17 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "ecd17c341445db7c4d93083d4aff1b2327742a5ce4bfd52ad4c60de63f696ee6"
+hash = "62637529311965e494748924f953c5c41c5f829dc221f5b5fe20120b8994e807"
 metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "92f796bb39c6235298ccf33b64505923870bc3a258cbb2114d0ec036bfe18b6d"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "0095de6d3525f5d5685df3c5476b09cf2a0fab26c755dac2692e79ee49e2ecaa"
 metafile = true
 
 [[files]]
@@ -208,12 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
-metafile = true
-
-[[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "32cff441dba71cee026356fe08147e289183532b7215071cdb0dd91af56aa643"
+hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
 metafile = true
 
 [[files]]
@@ -227,13 +244,13 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
-file = "mods/grass-kiss.pw.toml"
-hash = "85d7e2120286264565ce652bd87417565d4ed1e5101375d047e512943eac5a73"
+file = "mods/give-me-a-new-splash-text.pw.toml"
+hash = "95bcfa212bff76d1edbaafc19d9dc5f742fc0758b7563d7ee53e3efb266c73e9"
 metafile = true
 
 [[files]]
-file = "mods/here-be-no-dragons.pw.toml"
-hash = "d7d04009eba5c1068bd9aa5214c7ef87dcf426c4f23229b3dbfa6996952fd7c5"
+file = "mods/grass-kiss.pw.toml"
+hash = "85d7e2120286264565ce652bd87417565d4ed1e5101375d047e512943eac5a73"
 metafile = true
 
 [[files]]
@@ -252,12 +269,22 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
+hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
+metafile = true
+
+[[files]]
+file = "mods/italica.pw.toml"
+hash = "39b9ab503d178d7251af42a5cd39720c048ad2c8b5d95a1bc5c6763aecba0db6"
 metafile = true
 
 [[files]]
 file = "mods/lava-clear-view-fabric.pw.toml"
 hash = "649a44643b593d49c91ead5d89a1d0f90698e1ca87fa262b95ef52053e189e66"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
@@ -276,13 +303,18 @@ hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "5009d872d66039d63c7eb41a6a099e99ba69081b299e5ceccd6377060af3d732"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
+hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
@@ -321,13 +353,13 @@ hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
 metafile = true
 
 [[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+file = "mods/no-chat-reports.pw.toml"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
 file = "mods/originaddons.pw.toml"
-hash = "591da12ccba0d54b7a853947c5ce4e5e7135ac8991bf210904a58ad1c771f46e"
+hash = "40cfdcc5c02f54c98ec2e01ffa226536953b4554f6c381e0e49e5b31c229e75b"
 metafile = true
 
 [[files]]
@@ -346,8 +378,8 @@ hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "64ebf1e1a2e308e56caa85a3b1a43e3385c4f0433b67a3c825c39bd8941b9ae0"
+file = "mods/server-resource-pack-checker.pw.toml"
+hash = "bca08173f41da122db1e9e7590a57e5d0323ae895da9731041b5a4934fa629fc"
 metafile = true
 
 [[files]]
@@ -376,13 +408,18 @@ hash = "8a4a4e24b30d401e195211153879287b4e2bb1bbb3e56d904ca84bffbecd7f99"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "92fabf6009485130edf43bd6dbef2b5bb093d6b90c386f8a2fb3cac12b785d38"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
@@ -408,5 +445,5 @@ hash = "b5b710827d05726a6f8297ee5a1293147006ef56e9d61edcd6910fa2b774e012"
 
 [[files]]
 file = "shaderpacks/complementary-shaders-v4.pw.toml"
-hash = "d468216fa4b4917769fae3179b7bb47656f8a65474e87352d5b379783384e0af"
+hash = "62907b0a98b3ea75b6ab6efb694685751abbd19aa21826f03de0ab4bc4012fbe"
 metafile = true
