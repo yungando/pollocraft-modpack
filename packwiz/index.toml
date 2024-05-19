@@ -109,11 +109,6 @@ hash = "a8f06b1711c4a7ad809d5d03c78df38bf68c68ffa9876f43cc9ba41db0de4ba2"
 metafile = true
 
 [[files]]
-file = "mods/better-anvil.pw.toml"
-hash = "9577379ae842b418ea8ab4c682fc8c581e7e4ca7a3064ad47a09fb164fe7013a"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -156,11 +151,6 @@ metafile = true
 [[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "dbede39f3ccff414382384857789cb049c3525fcc8cc7209295743ffd92e4730"
-metafile = true
-
-[[files]]
-file = "mods/client-paintings.pw.toml"
-hash = "ac57f4245a710f0e689ba1a951efaf73f136fac38edc798a1fbe1129c2caeaf9"
 metafile = true
 
 [[files]]
@@ -290,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/hidenbt-1.1.0.jar"
-hash = "8746baf44d391e2d3a43670951d345548411706ef31878cb85c1ec90efa828d8"
+hash = "e154177e24cf2fc91af67dbcedbcb3db49b5f16e2f0f0c88d4526b19714fbb75"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -319,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
 
 [[files]]
