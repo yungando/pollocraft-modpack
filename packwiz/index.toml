@@ -90,7 +90,7 @@ hash = "b1f36e5fb957492f432c110063ce32ffb75cdecdc6e16accf08d4d27cad30642"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "55ec63ecc8b7cf6204ef6d3338fbe22a6494fcb8817fe7f2a90c5b4a0b2589c9"
+hash = "0b99204c1df3f91a8bebf70a591eb703c6d4e1dd1b4b19436ce8d7ac81d28485"
 preserve = true
 
 [[files]]
@@ -479,19 +479,19 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
-hash = "ea9b483a61339827f5e0b1bf27fab7c87dc518a8dd66557407fc205c98ec819c"
+hash = "33eca8e7d13efa3d1b9262f3bd13a07bb2a93448645ee270bb8559fe2f37b57e"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "b96a91567e9794699a5129180407baa7014994069c64cb12c76a213d901c438a"
+hash = "793dd880593666afa083fe93e116495f5e2a4cd353bc9fbe61d834798f4cd733"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
-hash = "10ab88533d993c5b92d940bdeacf02ba19adbd9d434a047c2f681a49958b065a"
+hash = "2f39e94182ffeaaef87bba7867fa701876e9c29bb70ffea9f3bbdd1081161e25"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "9abb0af4efbf88cded9dcc847c07c0aa7779530e7907bdde229a13330430633e"
+hash = "f296baf65ccf955be0bf1e8fa09514a1d88c50b142d2cca719186461ce80ca23"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.7.1.zip.txt"
