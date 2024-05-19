@@ -383,11 +383,6 @@ hash = "a0626154090e5879cb832c75cbc98251e246f0142999d496ac0b084f29a2bc02"
 metafile = true
 
 [[files]]
-file = "mods/raised.pw.toml"
-hash = "a39d62fa0ae0067676767e1dd45c2cd46d85ee0d6b1784778a0eb0d9ad4ca3c0"
-metafile = true
-
-[[files]]
 file = "mods/randomblockplacement.pw.toml"
 hash = "47c2ff0fda14aebc05cedf6939e222f444a854e8bdc5c9c4f2bb29f946ef4312"
 metafile = true
@@ -428,11 +423,6 @@ hash = "015e69cbe657406038201674ff4c38c469a60dd50eea62f6662ea9ffb820a248"
 metafile = true
 
 [[files]]
-file = "mods/smooth-skies.pw.toml"
-hash = "02b5bce50e165430d4496e1fba2d887377935500c20411958958e018761ce0ec"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true
@@ -440,11 +430,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
 metafile = true
 
 [[files]]
@@ -487,7 +472,7 @@ hash = "793dd880593666afa083fe93e116495f5e2a4cd353bc9fbe61d834798f4cd733"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
-hash = "2f39e94182ffeaaef87bba7867fa701876e9c29bb70ffea9f3bbdd1081161e25"
+hash = "51bddf22cf17865650d8a5f564c9591be43ff3f6ff567d17f56b2b741dd11bb6"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
