@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/hidenbt-1.1.0.jar"
-hash = "08bf64296b1031e2802893aec34191aa0a1cae56c96eef42b25522fd0ce32d2b"
+hash = "8746baf44d391e2d3a43670951d345548411706ef31878cb85c1ec90efa828d8"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
