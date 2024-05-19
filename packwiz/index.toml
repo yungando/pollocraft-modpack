@@ -333,11 +333,6 @@ hash = "052c3feacfce8e544cd4bc8b5abdc2283b9fa774a6993f337dee330d6123baba"
 metafile = true
 
 [[files]]
-file = "mods/minimal-menu.pw.toml"
-hash = "28e3b2cd3c3146779d9783ee807aa34cd79f0cdc839e811cc68b5a208cfa4977"
-metafile = true
-
-[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
