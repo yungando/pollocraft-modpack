@@ -1,13 +1,13 @@
 name = "Give me a new splash text!"
-filename = "give-me-a-new-splash-text-1.0.0.jar"
+filename = "give-me-a-new-splash-text-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/9tsqKbBI/versions/TExGRpFS/give-me-a-new-splash-text-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/9tsqKbBI/versions/BXFBtrus/give-me-a-new-splash-text-1.1.0.jar"
 hash-format = "sha1"
-hash = "90ce978edeafa3ce74794951df2a1d1b5876e990"
+hash = "935597aef5a1192d0c474d9da43ae46a72741bea"
 
 [update]
 [update.modrinth]
 mod-id = "9tsqKbBI"
-version = "TExGRpFS"
+version = "BXFBtrus"

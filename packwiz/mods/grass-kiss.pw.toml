@@ -1,13 +1,13 @@
 name = "GrassKiss"
-filename = "grasskiss-1.19.1-fabric0.58.5-0.5.0.jar"
+filename = "grasskiss-1.20.4-fabric0.91.2-0.5.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/KelLCoVr/versions/1.19.1-fabric0.58.5-0.5.0/grasskiss-1.19.1-fabric0.58.5-0.5.0.jar"
+url = "https://cdn.modrinth.com/data/KelLCoVr/versions/K8kvRPMM/grasskiss-1.20.4-fabric0.91.2-0.5.0.jar"
 hash-format = "sha1"
-hash = "0918a1b4c0b2580236bb94801cb09207b8e55dde"
+hash = "c7cf35b902fc805e2729029bf6db79964d2149aa"
 
 [update]
 [update.modrinth]
 mod-id = "KelLCoVr"
-version = "YhVCrhEC"
+version = "K8kvRPMM"

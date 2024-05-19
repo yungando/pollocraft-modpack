@@ -1,13 +1,13 @@
 name = "RandomBlockPlacement"
-filename = "randomblockplacement-1.19.1-fabric0.58.5-1.1.4.jar"
+filename = "randomblockplacement-1.20.4-fabric0.91.2-1.1.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/djlwpkGP/versions/1.19.1-fabric0.58.5-1.1.4/randomblockplacement-1.19.1-fabric0.58.5-1.1.4.jar"
+url = "https://cdn.modrinth.com/data/djlwpkGP/versions/GGHbKIQY/randomblockplacement-1.20.4-fabric0.91.2-1.1.4.jar"
 hash-format = "sha1"
-hash = "a2c820e956e2027b129634746432fac9fa2b0aa4"
+hash = "cdb35a1f5afc3f9da83869621589351d7a876768"
 
 [update]
 [update.modrinth]
 mod-id = "djlwpkGP"
-version = "uCIqPEIL"
+version = "GGHbKIQY"

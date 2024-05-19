@@ -1,0 +1,13 @@
+name = "Vistas"
+filename = "vistas-2.5.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/itzZXRxq/versions/hF63O0j5/vistas-2.5.2.jar"
+hash-format = "sha1"
+hash = "b7279dde343684fbc2e9c0a3d1a5e569b3f5eeb8"
+
+[update]
+[update.modrinth]
+mod-id = "itzZXRxq"
+version = "hF63O0j5"
