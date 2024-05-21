@@ -86,11 +86,11 @@ hash = "ca0a69bd64d0f021ad53df9ab9a3ca59546ee9001ad7f488d1712005b3bdd860"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
-hash = "b1f36e5fb957492f432c110063ce32ffb75cdecdc6e16accf08d4d27cad30642"
+hash = "24800cdeaaa2017eda0d53bc0f68774771e3fba38f8acfbf25714ee60cc9fb25"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0b99204c1df3f91a8bebf70a591eb703c6d4e1dd1b4b19436ce8d7ac81d28485"
+hash = "e37a145c20ee5fc4d9d095ba0a57f06209a4d200db25ad88dadcf351323c0283"
 preserve = true
 
 [[files]]
@@ -106,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/armor-chroma-for-fabric.pw.toml"
 hash = "a8f06b1711c4a7ad809d5d03c78df38bf68c68ffa9876f43cc9ba41db0de4ba2"
+metafile = true
+
+[[files]]
+file = "mods/armored-elytra.pw.toml"
+hash = "394c8b4fea41e9cfaacecc22aec66776175967ba19b748b1b33a385670957010"
 metafile = true
 
 [[files]]
@@ -186,11 +191,6 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "62637529311965e494748924f953c5c41c5f829dc221f5b5fe20120b8994e807"
-metafile = true
-
-[[files]]
-file = "mods/early-loading-screen.pw.toml"
-hash = "c03140790dc6cda96634d1c065ec95cc1ceb6824341fba33f844a0645a1df743"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/hidenbt-1.1.0.jar"
-hash = "e154177e24cf2fc91af67dbcedbcb3db49b5f16e2f0f0c88d4526b19714fbb75"
+hash = "56f92801c469ea53326e7e032af762d2aa516e680bd911cb69b420a24f2598c0"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -464,11 +464,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
-hash = "33eca8e7d13efa3d1b9262f3bd13a07bb2a93448645ee270bb8559fe2f37b57e"
+hash = "ce9655d5ec3bb2f991911a11c761a1e9077a45fa652bcda1d43ff8ed2d057d7e"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "793dd880593666afa083fe93e116495f5e2a4cd353bc9fbe61d834798f4cd733"
+hash = "236b52b287c4f2819cc56cb397b368e8e9bc3b83254f1e62d60d68b76f21fe21"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
@@ -479,10 +479,10 @@ file = "resourcepacks/pollocraft.zip"
 hash = "f296baf65ccf955be0bf1e8fa09514a1d88c50b142d2cca719186461ce80ca23"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.7.1.zip.txt"
-hash = "b5b710827d05726a6f8297ee5a1293147006ef56e9d61edcd6910fa2b774e012"
+file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt.txt"
+hash = "31ab012a8890bf5589db7533dab571c09676837b926754495cacaf1e249882d8"
 
 [[files]]
-file = "shaderpacks/complementary-shaders-v4.pw.toml"
-hash = "c3b7d6c27249a7727712d1a884e40e3837d692de32d357d747fcabdded23d649"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true

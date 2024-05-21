@@ -11,8 +11,7 @@ guiScale:2
 maxFps:260
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","fabric","continuity:default","seamless:default_seamless","continuity:glass_pane_culling_fix","minecraft:supporteatinganimation","armorchroma:alternative-icons","file/VanillaTweaks.zip","file/andos-pack.zip","file/pollocraft-panoramas.zip","file/pollocraft.zip"]
-incompatibleResourcePacks:["better_resource_pack_sorting","boatiview","e4mc_minecraft","modernfix","rrls","xaeroworldmap","yet_another_config_lib_v3","continuity:default","continuity:glass_pane_culling_fix","minecraft:supporteatinganimation","armorchroma:alternative-icons"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","seamless:default_seamless","minecraft:supporteatinganimation","armorchroma:alternative-icons","file/VanillaTweaks.zip","file/andos-pack.zip","file/pollocraft-panoramas.zip","file/pollocraft.zip"]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true
