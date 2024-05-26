@@ -37,12 +37,16 @@ file = "config/yosbr/config/fastquit-config.txt"
 hash = "51737ea18619d5d6f55a8c7aff5ac0375ab8387a68698baa650d4732c8e38df6"
 
 [[files]]
+file = "config/yosbr/config/freecam.json5"
+hash = "810c964a9efa9776788dafe5d745172ed38cc107e92c126bfa4b1e0032dde7d9"
+
+[[files]]
 file = "config/yosbr/config/grass_kiss.json"
 hash = "9439f8254146932503037a2e0f82cdbc48a1e9a796ce900e98ee3068b8ec3de6"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "914ce60745bbe444b7f211bdc1975fb0d52563369492bf65023f66d66f60221f"
+hash = "ec4e461be362e53f9e364240f82b9b735d9058d35dbed738fa0129a839383831"
 
 [[files]]
 file = "config/yosbr/config/lightoverlay.properties"
@@ -74,7 +78,7 @@ hash = "6684f17b604a9f65aba53ea9dc57ed570f55d77536fe1ae456831d81f1ff947e"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "8f54a898831dd20213f130aeab2339104578d94fb9b6c923f9fb27aae8825dd4"
+hash = "5420803a74f8a8a6ed1b1c7d5fa448d0aa2138d25e5d16069b4cc71184dda18b"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -90,7 +94,7 @@ hash = "24800cdeaaa2017eda0d53bc0f68774771e3fba38f8acfbf25714ee60cc9fb25"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e37a145c20ee5fc4d9d095ba0a57f06209a4d200db25ad88dadcf351323c0283"
+hash = "7dee9715581fd8613dc3050f96f9a6466a5a10afe7a6eeb6659c8a28c8c3342e"
 preserve = true
 
 [[files]]
@@ -104,9 +108,8 @@ hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
-file = "mods/armor-chroma-for-fabric.pw.toml"
-hash = "a8f06b1711c4a7ad809d5d03c78df38bf68c68ffa9876f43cc9ba41db0de4ba2"
-metafile = true
+file = "mods/armorchroma-1.2.6.jar"
+hash = "01d6f479283e4051df953033e02127c2e5c0bf83e181476d18248e24d67ea27b"
 
 [[files]]
 file = "mods/armored-elytra.pw.toml"
@@ -121,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/better-resource-pack-sorting.pw.toml"
 hash = "ed49dd58138e5220c8737cfa43e48e52ff22556986e5bc360c42c50696e866c5"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "aac04d193cc34a0af6e2838f9bfccf27f4c810c8efcfe5421644a7f2372f8cae"
 metafile = true
 
 [[files]]
@@ -264,6 +272,11 @@ hash = "ee01b28a51e3d1594f5d2d8ebeb0969135cc806336f76cad357aac9603efcffa"
 metafile = true
 
 [[files]]
+file = "mods/force-lowercase-commands.pw.toml"
+hash = "d6453cd8c1d101cc435c4606dc599a500e45ddb70e461d984274d5358c5aba57"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "170ea395764e635c34c8d44aff02447a44aca3006c6591be355482041e437d6b"
 metafile = true
@@ -373,6 +386,11 @@ hash = "133f616a55d3fb6d5047319135fd9dbef1b850a19ab521add361222c10a616e5"
 metafile = true
 
 [[files]]
+file = "mods/music-notification.pw.toml"
+hash = "ff00c7074de9db49f0b5301d0ade42d31491c07f327ad24fd85d1d9d2d452809"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "a6a57004f5990ae59be0b89eb2edc5f50e2233d0410bd5f8060d58401592e0ef"
 metafile = true
@@ -479,8 +497,8 @@ file = "resourcepacks/pollocraft.zip"
 hash = "f296baf65ccf955be0bf1e8fa09514a1d88c50b142d2cca719186461ce80ca23"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
-hash = "31ab012a8890bf5589db7533dab571c09676837b926754495cacaf1e249882d8"
+file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2.txt"
+hash = "c890cbde0782ddd656676b42adc6db0188afbaf9d0068a3e0bdb0d2ed8f84833"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

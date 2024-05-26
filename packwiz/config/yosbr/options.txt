@@ -28,4 +28,5 @@ key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_key.randomblockplacement.toggle:key.keyboard.unknown
 key_key.screenshot:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f2
+key_key.freecam.toggle:key.keyboard.x
 soundCategory_music:0.5
