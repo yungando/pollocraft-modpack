@@ -73,6 +73,10 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "b9196e07b7b1a7239992b737b50ea35a337c87d1828a20d5f23300b18050f37c"
 
 [[files]]
+file = "config/yosbr/config/musicnotification.json"
+hash = "6adfcefc27608544ac43b5e5af911dba40caffdd81986c6a656a569476b060ba"
+
+[[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
 hash = "6684f17b604a9f65aba53ea9dc57ed570f55d77536fe1ae456831d81f1ff947e"
 
@@ -229,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "9f9b8a52da97462b3d3003d3b0bd3270199f95e03c6a06bffb5d49fb4c57aa32"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "7b1b0c2e7765ab3df198db3034a09bd513f6366fad7c8003208e26280bbb441a"
 metafile = true
 
 [[files]]
